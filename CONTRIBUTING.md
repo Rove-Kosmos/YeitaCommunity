@@ -1,20 +1,16 @@
-# Je veux modifier ce guide
+# How do I contribute ?
 
-## Pourquoi contribuer ?
+## Why contributing ?
 
-    Tu souhaites ajouter une nouvelle ressource ?
-    Tu souhaites créer une nouvelle page ?
-    Tu souhaites mettre à jour ou corriger du contenu sur ce guide ?
+* To add a new resource
+* To create a new page / topic
+* To correct or update content
 
-## Comment devenir contributeur ?
+## How to become a contributor ?
 
-Chaque membre de la communauté peut devenir éditeur et proposer des modifications et améliorations à ce guide en ligne.
+Everyone can contribute and improve this knowledge base, member or not. But Yeita members can become editors and monitor contributions.
 
-Pour contribuer à ce guide (gitbook), tu as deux choix :
+To contribute, the best way is to go to https://communaute-yeita.gitbook.io/welcome-to-gitbook/ (you can ask for editor access on Slack) and to create a new entry.
 
-* https://communaute-yeita.gitbook.io/welcome-to-gitbook/ (tu peux demander des accès sur Slack)
-* Si tu es doué avec Github, tu peux aussi modifier ce guide directement ici.
-
-Tu ne prends aucun risque à "casser" quoi que ce soit.
-
-Si besoin d'aide, tu peux solliciter les membres Yeita du Slack.
+Don't worry, you'll not break anything.
+If you need help, you can ask Yeita members on Slack.
