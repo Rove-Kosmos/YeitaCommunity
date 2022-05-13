@@ -1,11 +1,16 @@
-# Get Started
+# Yeita Community
 
-## Try it out
+## What is Yeita ?
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+Yeita is an inclusive product community, focused on product management and product design. We are sharing a Slack and we gather resources about Management, Design, Agile frameworks and Research on our Gitbook.
 
+## What is it for ?
 
+Yeita Community has 3 main goals :
+* Share the knowledge freely and without conditions 
+* Help junior level up their product skills
+* Create an open culture within Yeita
 
-## Moving on
+## How to contribute ?
 
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+Please read the CONTRIBUTE.md file
