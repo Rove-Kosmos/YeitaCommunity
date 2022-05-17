@@ -1,16 +1,19 @@
-# Yeita Community
+---
+description: Le quoi, le pourquoi et le comment
+---
 
-## What is Yeita ?
+# Introduction
 
-Yeita is an inclusive product community, focused on product management and product design. We are sharing a Slack and we gather resources about Management, Design, Agile frameworks and Research on our Gitbook.
+## C'est quoi [Yeita](https://yeita.fr/) ?
 
-## What is it for ?
+Nous sommes une ESN de products designers et managers passionnés et libérés qui ont envie de se retrouver pour vivre une expérience forte dans un environnement créatif. Notre communauté s'unit autour de valeurs communes : nous sommes <mark style="color:green;">**authentiques**</mark>, <mark style="color:green;">**audacieux**</mark> et <mark style="color:green;">**attentifs**</mark>.
 
-Yeita Community has 3 main goals :
-* Share the knowledge freely and without conditions 
-* Help junior level up their product skills
-* Create an open culture within Yeita
+C'est aussi et surtout une communauté Produit inclusive, axée sur la gestion et la conception de produits. Nous partageons **un Slack commun** et nous rassemblons ici des ressources sur le **management**, le **design**, **l'agilité** et le **développement personnel** pour faire grandir tout la communauté.
 
-## How to contribute ?
+## Pourquoi un Gitbook ?
 
-Please read the CONTRIBUTE.md file
+La Communauté Yeita a choisi Gitbook car c'est un outil simple et collaboratif, dans le but de :
+
+* Partager le savoir de tous librement et sans conditions
+* Aider les juniors à monter en compétences produit
+* Créer une culture open-source & créative au sein de Yeita

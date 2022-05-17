@@ -1,4 +1,8 @@
-# Change requests
+# Comment contribuer ?
+
+## Locked edits
+
+The alternative to a live edit mode is called **locked edits**. Spaces that are locked for live edits aren't directly editable, and any edits you need to make must be handled through **change requests**. You can lock a space using the space menu and selecting 'Lock live edits'.
 
 ## Welcome to branched content…
 
