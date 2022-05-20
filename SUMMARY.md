@@ -1,12 +1,15 @@
 # Table of contents
 
 * [👋 Bienvenue ici !](README.md)
-* [🎓 Gitbook 101](spaces.md)
-* [💡 Comment contribuer ?](live-edit-and-locked-edits.md)
+* [🎓 Gitbook 101](les-bases/spaces.md)
+* [💡 Comment contribuer ?](les-bases/live-edit-and-locked-edits.md)
 
 ## Yeita
 
-* [Qui sommes-nous ?](yeita/qui-sommes-nous.md)
+* [Qui sommes-nous ?](yeita/qui-sommes-nous/README.md)
+  * [Une Organisation Alternative](yeita/qui-sommes-nous/une-organisation-alternative.md)
+  * [Nos Clients](yeita/qui-sommes-nous/nos-clients.md)
+  * [La Communauté](yeita/qui-sommes-nous/la-communaute.md)
 
 ## product&#x20;
 
