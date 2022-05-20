@@ -6,7 +6,7 @@
 
 ## Yeita
 
-* [Qui sommes-nous ?](yeita/qui-sommes-nous/README.md)
+* [🤩 Qui sommes-nous ?](yeita/qui-sommes-nous/README.md)
   * [Une Organisation Alternative](yeita/qui-sommes-nous/une-organisation-alternative.md)
   * [Nos Clients](yeita/qui-sommes-nous/nos-clients.md)
   * [La Communauté](yeita/qui-sommes-nous/la-communaute.md)

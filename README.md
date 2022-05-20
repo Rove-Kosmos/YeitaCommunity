@@ -14,7 +14,7 @@ description: Toutes les infos pour bien démarrer, c'est ici.
 
 </details>
 
-## C'est quoi [Yeita](https://yeita.fr/) ?
+## C'est quoi [Yeita](yeita/qui-sommes-nous/) ?
 
 Nous sommes une ESN de products designers et managers passionnés et libérés qui ont envie de se retrouver pour vivre une expérience forte dans un environnement créatif. Notre communauté s'unit autour de valeurs communes : nous sommes <mark style="color:green;">**authentiques**</mark>, <mark style="color:green;">**audacieux**</mark> et <mark style="color:green;">**attentifs**</mark>.
 

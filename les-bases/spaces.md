@@ -2,7 +2,7 @@
 description: Comment utiliser Gitbook en une page.
 ---
 
-# 🎓 Gitbook 101
+# Gitbook 101
 
 ## Organisation
 
