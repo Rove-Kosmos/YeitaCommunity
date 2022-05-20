@@ -1,12 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [👋 Bienvenue ici !](README.md)
+* [🎓 Gitbook 101](spaces.md)
+* [💡 Comment contribuer ?](live-edit-and-locked-edits.md)
 
-## Les bases
+## Yeita
 
-* [Gitbook 101](les-bases/spaces.md)
-* [Comment contribuer ?](les-bases/live-edit-and-locked-edits.md)
+* [Qui sommes-nous ?](yeita/qui-sommes-nous.md)
 
-## Next steps
+## product&#x20;
 
-* [What next?](next-steps/what-next.md)
+* [Page 3](product/page-3.md)
+
+## UI Design
+
+* [Page 1](ui-design/page-1.md)
+
+## UX Design
+
+* [Page 2](ux-design/page-2.md)

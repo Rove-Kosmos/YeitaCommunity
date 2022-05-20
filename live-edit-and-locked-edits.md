@@ -1,4 +1,4 @@
-# Comment contribuer ?
+# 💡 Comment contribuer ?
 
 ## Locked edits
 

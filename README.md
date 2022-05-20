@@ -1,8 +1,18 @@
 ---
-description: Le quoi, le pourquoi et le comment
+description: Toutes les infos pour bien démarrer, c'est ici.
 ---
 
-# Introduction
+# 👋 Bienvenue ici !
+
+## Que veux-tu faire ?
+
+<details>
+
+<summary>Je veux découvrir Yeita ! </summary>
+
+
+
+</details>
 
 ## C'est quoi [Yeita](https://yeita.fr/) ?
 
