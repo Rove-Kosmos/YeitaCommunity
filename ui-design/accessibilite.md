@@ -1,3 +1,7 @@
+---
+description: Outils, méthodes et bonnes pratiques pour l'accessibilité
+---
+
 # ♿ Accessibilité
 
 ## **Contrastes & WCAG**
@@ -8,6 +12,12 @@
 * [Contrast](https://usecontrast.com/) Une app mac qui permet de checker l'accessibilité WCAG d'une couleur. La même chose en webapp : [Colorable](https://colorable.jxnblk.com/6e270b/00ff84), [Contrast Checker](https://webaim.org/resources/contrastchecker/?ref=uxdatabase.io).
 * [Color Safe](http://colorsafe.co/?ref=prototyprio), [Accessible Color Palette](https://toolness.github.io/accessible-color-matrix/?n=white\&n=light\&n=bright\&n=medium\&n=dark\&n=black\&v=FFFAED\&v=FFF2C2\&v=FFDD96\&v=781149\&v=420927\&v=290418) Générateurs de palettes accessibles.
 * [ButtonBuddy](https://buttonbuddy.dev/) Pour checker le contraste d'un bouton
+
+## Méthodes
+
+* [Inclusive Design by Microsoft](https://www.microsoft.com/design/inclusive/) Une méthodologie complète pour un design inclusif, respectueux et accessible.
+* [Humane by Design](https://humanebydesign.com/) est une série de principes documentés d'articles
+* [Stark Library](https://www.getstark.co/library/) est une collection d'outils et d'articles liées à l'accessibilité. Pour éviter d'en mettre trop ici, allez vous perdre là-bas sans modération.
 
 ## Datavisualisation
 

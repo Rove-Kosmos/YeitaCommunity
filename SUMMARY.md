@@ -15,7 +15,7 @@
 
 ## product&#x20;
 
-* [Page 3](product/page-3.md)
+* [➕ Autres](product/autres.md)
 
 ## UI Design
 
@@ -34,4 +34,9 @@
 
 ## UX Design
 
-* [Page 2](ux-design/page-2.md)
+* [📝 Ateliers](ux-design/ateliers.md)
+* [✒ UX Writing](ux-design/ux-writing.md)
+* [🛠 Outils](ux-design/outils.md)
+* [🌱 Ecodesign & Ethique](ux-design/ecodesign-and-ethique.md)
+* [🧠 Psychologie Cognitive](ux-design/psychologie-cognitive.md)
+* [➕ Autres](ux-design/autres.md)

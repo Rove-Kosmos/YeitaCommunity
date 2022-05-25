@@ -18,6 +18,7 @@ description: Tout ce qui ne rentre pas dans les autres cases.
 ### ✨ Fun Stuff ✨
 
 * [Slackmojis](https://slackmojis.com/) - Liste d'emojis taillés pour Slack, éditée par la communauté
+* [LoCoS](https://www.logodesignlove.com/yukio-ota-locos) : un langage emoji inventé pour l'inclusion
 * [La vieille interface Macintosh](https://github.com/felixrieseberg/macintosh.js) enfin refaite et installable par tous
 * [Pareil pour Windows & Linux](https://winworldpc.com/library/operating-systems) mais au format iso
 

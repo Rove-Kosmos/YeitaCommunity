@@ -1,3 +1,7 @@
+---
+description: Pour les fans de Marie Kondo
+---
+
 # 🗃 Design Systems
 
 ## Comment faire ?
