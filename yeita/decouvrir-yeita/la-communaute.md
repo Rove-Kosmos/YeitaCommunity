@@ -18,8 +18,8 @@ description: 'Membres dans la Dream Team : 10'
 
 [**Amélie Meppiel**](https://www.linkedin.com/in/ameliemeppiel/) • Product Designer _(Arrivée en juin 2022)_
 
-Raphaël • Lead Product Manager _(Arrivée en septembre 2022)_
+**Raphaël** • Lead Product Manager _(Arrivée en septembre 2022)_
 
-Juliette • Product Owner _(Arrivée en octobre 2022)_
+**Juliette** • Product Owner _(Arrivée en octobre 2022)_
 
-Leo • Product Owner _(Arrivée en novembre 2022)_
+**Leo** • Product Owner _(Arrivée en novembre 2022)_

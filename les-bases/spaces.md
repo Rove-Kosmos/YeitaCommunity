@@ -2,17 +2,28 @@
 description: Comment utiliser Gitbook en une page.
 ---
 
-# Gitbook 101
+# 🎓 Gitbook 101
+
+## Règles
+
+Gitbook est un outil de documentation collaboratif en ligne. À Yeita, notre Gitbook est ouvert à tous à la lecture, et seul·es les gens de Yeita peuvent y [contribuer](live-edit-and-locked-edits.md).
+
+⚖️ Les articles, commentaires et liens publiés doivent respecter ces règles de base :&#x20;
+
+* **Ne pas promouvoir d'idées raciste, sexiste, discriminantes, politiques, religieuses** et autour de sujets illégaux.
+* **Le Gitbook n'est pas un espace publicitaire ni commercial, l**es données présentes ne doivent pas être utilisées en ce sens.&#x20;
 
 ## Organisation
 
-Gitbook s'organise dans cet ordre. Vous êtes actuellement sur le projet Yeita contenant des **Collections** de **Spaces** où on range les **Pages**.
+
+
+Gitbook s'organise comme suit. Vous êtes actuellement sur le projet Yeita contenant des **Collections** de **Spaces** où on range les **Pages**.
 
 * Une **Collection** est un regroupement de Spaces
 * Un **Space** est un regroupement de pages
 * Une **Page** contient des blocs de contenu (textes, images, etc)
 
-## Editeur
+## Éditeur
 
 Gitbook est un outil "block-based", c'est à dire que chaque page peut être construite à l'aide de blocs. Pour accéder à la liste des blocs, faites `Cmd+/` sur Mac et `Ctrl+/` sur Windows.
 

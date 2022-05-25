@@ -2,14 +2,15 @@
 
 * [👋 Bienvenue ici !](README.md)
 * [🎓 Gitbook 101](les-bases/spaces.md)
-* [💡 Comment contribuer ?](les-bases/live-edit-and-locked-edits.md)
+* [💡 Contribuer au Gitbook](les-bases/live-edit-and-locked-edits.md)
 
 ## Yeita
 
-* [🤩 Qui sommes-nous ?](yeita/qui-sommes-nous/README.md)
-  * [Une Organisation Alternative](yeita/qui-sommes-nous/une-organisation-alternative.md)
-  * [Nos Clients](yeita/qui-sommes-nous/nos-clients.md)
-  * [La Communauté](yeita/qui-sommes-nous/la-communaute.md)
+* [🤩 Découvrir Yeita](yeita/decouvrir-yeita/README.md)
+  * [Une Organisation Alternative](yeita/decouvrir-yeita/une-organisation-alternative.md)
+  * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
+  * [La Communauté](yeita/decouvrir-yeita/la-communaute.md)
+* [👋 Démarrer à Yeita](yeita/demarrer-a-yeita.md)
 
 ## product&#x20;
 
@@ -17,7 +18,12 @@
 
 ## UI Design
 
-* [Page 1](ui-design/page-1.md)
+* [🎨 Couleurs](ui-design/couleurs.md)
+* [Figma](ui-design/figma.md)
+* [🗃 Design Systems](ui-design/design-systems/README.md)
+  * [Composants](ui-design/design-systems/composants.md)
+  * [Bonnes pratiques](ui-design/design-systems/bonnes-pratiques.md)
+* [♿ Accessibilité](ui-design/accessibilite.md)
 
 ## UX Design
 

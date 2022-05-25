@@ -1,15 +1,47 @@
-# Comment contribuer ?
+---
+description: >-
+  Cette page est destinée à cell·eux qui trépignent d'impatience pour rajouter
+  du contenu.
+---
 
-## Locked edits
+# 💡 Contribuer au Gitbook
 
-The alternative to a live edit mode is called **locked edits**. Spaces that are locked for live edits aren't directly editable, and any edits you need to make must be handled through **change requests**. You can lock a space using the space menu and selecting 'Lock live edits'.
+## 🌿 Le système des branches&#x20;
 
-## Welcome to branched content…
+D'abord, une rapide explication de comment ça marche.
 
-Change requests let you create branched content – allowing you to make edits away from your main content branch. The idea is: you create a branch of your main content, make changes to that branch, submit it when you're ready, then you or someone else merges those changes into the main content.
+Gitbook fonctionne comme tous les outils Git : pour contribuer, il faut **créer une nouvelle branche**. Une branche est une version du Gitbook incluant vos ajouts & corrections. Une fois qu'une branche est prête il faut la **"merger"** au Gitbook global.&#x20;
 
-If you've ever used a Git-based workflow, this should feel pretty natural. If not, no worries! You can try creating a change request now. First, if you haven't already, lock this space for live edits.
+{% hint style="warning" %}
+Si 2 personnes distincts font 2 branches distinctes avec des modifications sur la même page par exemple, alors on a ce qu'on appelle un **"conflit de merge"**. C'est-à-dire qu'il va falloir statuer ce qu'on garde et ce qu'on laisse des 2 branches dans le Gitbook global.
+{% endhint %}
 
-You'll see an Edit button up top, give it a tap, and you'll be in change request mode! From here, you can make changes without worrying about messing up the main content branch.
+## 💪 Je veux contribuer !
 
-When you're ready, Submit the edits, then Merge them using the buttons on the bottom bar, and you'll see your changes reflected in the content!
+Super ! Si c'est ta première contribution, allons-y ensemble :&#x20;
+
+<details>
+
+<summary><strong>Si tu es uniquement lecteur du Gitbook</strong></summary>
+
+1. **Rédige ton ajout / ta modification** dans un document Word ou dans un message (en fonction de la longueur)
+2. **Partages ton document / ton message** dans le canal Slack <mark style="color:blue;background-color:blue;">**#gitbook-contributions**</mark>
+3. Un éditeur Gitbook se chargera d'ajouter ton ajout au Gitbook :relaxed:
+
+</details>
+
+<details>
+
+<summary><strong>Si tu as un compte Gitbook Editor</strong></summary>
+
+1. **Crée une nouvelle branche** en cliquant sur&#x20;
+2. Pour qu'on s'y retrouve dans les branches, donne lui un nom qui décrit ce que tu ajoutes.\
+   \
+   <mark style="color:blue;">ℹ️ C'est plus propre de faire : 1 branche = 1 sujet</mark> \ <mark style="color:blue;"></mark>_<mark style="color:blue;">(Ex: 1 branche "UI Colors", 1 branche "Nouveau livre produit"...)</mark>_
+3. Tu peux maintenant éditer ce que tu veux en toute sécurité :smile:\
+   <mark style="color:blue;">ℹ️ Tout ce que tu fais est enregistré en live, et si tu quitte et que tu reviens, tu peux retrouver ta branche en cliquant sur</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Change Requests"**</mark><mark style="color:blue;">.</mark>
+4. Une fois que c'est bon, clique sur la flèche à côté du bouton **Merge**, et sélectionne **Submit for review**. Quelqu'un se chargera alors rapidement d'approuver ta branche.
+
+</details>
+
+Et voilà !
