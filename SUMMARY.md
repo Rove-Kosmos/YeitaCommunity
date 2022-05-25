@@ -11,6 +11,7 @@
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [La Communauté](yeita/decouvrir-yeita/la-communaute.md)
 * [👋 Démarrer à Yeita](yeita/demarrer-a-yeita.md)
+* [📖 Bibliothèque](yeita/bibliotheque.md)
 
 ## product&#x20;
 
@@ -19,13 +20,13 @@
 ## UI Design
 
 * [👁 Visual Design](ui-design/visual-design/README.md)
-  * [Couleurs](ui-design/visual-design/couleurs.md)
+  * [Couleurs](ui-design/couleurs.md)
   * [Icons, Illustrations, Photos](ui-design/visual-design/icons-illustrations-photos.md)
   * [Typographie](ui-design/visual-design/typographie.md)
 * [🗃 Design Systems](ui-design/design-systems/README.md)
   * [Composants](ui-design/design-systems/composants.md)
   * [Bonnes pratiques](ui-design/design-systems/bonnes-pratiques.md)
-* [🛠 Outils](ui-design/outils.md)
+* [🛠 Outils](ui-design/figma.md)
 * [♿ Accessibilité](ui-design/accessibilite.md)
 * [🛍 Branding](ui-design/branding.md)
 * [🎥 Motion](ui-design/motion.md)

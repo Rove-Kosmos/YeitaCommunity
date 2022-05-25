@@ -4,8 +4,8 @@ description: Couleurs, icons, illustrations, photos, typographie...
 
 # 👁 Visual Design
 
-{% content-ref url="couleurs.md" %}
-[couleurs.md](couleurs.md)
+{% content-ref url="../couleurs.md" %}
+[couleurs.md](../couleurs.md)
 {% endcontent-ref %}
 
 {% content-ref url="icons-illustrations-photos.md" %}
