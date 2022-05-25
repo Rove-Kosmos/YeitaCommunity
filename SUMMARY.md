@@ -18,12 +18,18 @@
 
 ## UI Design
 
-* [🎨 Couleurs](ui-design/couleurs.md)
-* [Figma](ui-design/figma.md)
+* [👁 Visual Design](ui-design/visual-design/README.md)
+  * [Couleurs](ui-design/visual-design/couleurs.md)
+  * [Icons, Illustrations, Photos](ui-design/visual-design/icons-illustrations-photos.md)
+  * [Typographie](ui-design/visual-design/typographie.md)
 * [🗃 Design Systems](ui-design/design-systems/README.md)
   * [Composants](ui-design/design-systems/composants.md)
   * [Bonnes pratiques](ui-design/design-systems/bonnes-pratiques.md)
+* [🛠 Outils](ui-design/outils.md)
 * [♿ Accessibilité](ui-design/accessibilite.md)
+* [🛍 Branding](ui-design/branding.md)
+* [🎥 Motion](ui-design/motion.md)
+* [➕ Autres](ui-design/autres.md)
 
 ## UX Design
 

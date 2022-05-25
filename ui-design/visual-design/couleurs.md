@@ -1,4 +1,4 @@
-# 🎨 Couleurs
+# Couleurs
 
 ## Palette Picker
 
