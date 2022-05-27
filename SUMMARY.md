@@ -15,6 +15,11 @@
 
 ## product&#x20;
 
+* [👔 Entreprenariat](product/entreprenariat.md)
+* [🤝 Management (vide)](product/management-vide.md)
+* [📋 Product Owning (vide)](product/product-owning-vide.md)
+* [🎯 Product Strategy (vide)](product/product-strategy-vide.md)
+* [🧪 Tests & QA (vide)](product/tests-and-qa-vide.md)
 * [➕ Autres](product/autres.md)
 
 ## UI Design
