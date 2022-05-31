@@ -18,6 +18,6 @@ Yeita c'est surtout une aventure commune, nous nous différencions en proposant 
 
 Pour développer notre créativité et nos compétences nous mettons en place :&#x20;
 
-* **Une demi-journée par mois** de coaching individualisé, de formation ou d’événement en équipe\
+* **Une demi-journée tous les 2 mois** de coaching individualisé, de formation ou d’événement en équipe\
   &#x20;
 * **Une cagnotte créativité** générée collectivement grâce aux résultats de l’entreprise : et si on décidait de se faire un design sprint, une semaine de remote à Belleville Hills (_vous avez bien lu, oui)_ ou juste une conférence ?&#x20;
