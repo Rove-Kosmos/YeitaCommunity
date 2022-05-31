@@ -10,7 +10,7 @@
   * [Une Organisation Alternative](yeita/decouvrir-yeita/une-organisation-alternative.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [La Communauté](yeita/decouvrir-yeita/la-communaute.md)
-* [👋 Démarrer à Yeita](yeita/demarrer-a-yeita.md)
+* [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita.md)
 * [📖 Bibliothèque](yeita/bibliotheque.md)
 
 ## product&#x20;
