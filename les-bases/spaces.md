@@ -4,6 +4,10 @@ description: Comment utiliser Gitbook en une page.
 
 # 🎓 Gitbook 101
 
+{% hint style="success" %}
+❤️ Nous possédons [Gitbook](https://www.gitbook.com/) en Community Plan !&#x20;
+{% endhint %}
+
 ## Règles
 
 Gitbook est un outil de documentation collaboratif en ligne. À Yeita, notre Gitbook est ouvert à tous à la lecture, et seul·es les gens de Yeita peuvent y [contribuer](live-edit-and-locked-edits.md).
@@ -14,8 +18,6 @@ Gitbook est un outil de documentation collaboratif en ligne. À Yeita, notre Git
 * **Le Gitbook n'est pas un espace publicitaire ni commercial, l**es données présentes ne doivent pas être utilisées en ce sens.&#x20;
 
 ## Organisation
-
-
 
 Gitbook s'organise comme suit. Vous êtes actuellement sur le projet Yeita contenant des **Collections** de **Spaces** où on range les **Pages**.
 
