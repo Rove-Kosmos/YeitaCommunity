@@ -2,7 +2,7 @@
 description: Comment utiliser Discord en une page.
 ---
 
-# 🎓 Discord 101
+# Discord 101
 
 ## Interface
 

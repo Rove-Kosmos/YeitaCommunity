@@ -1,8 +1,9 @@
 # Table of contents
 
 * [👋 Bienvenue ici !](README.md)
-* [🎓 Gitbook 101](les-bases/spaces.md)
-* [🎓 Discord 101](discord-101.md)
+* [🎓 Formations](formations/README.md)
+  * [Gitbook 101](formations/spaces.md)
+  * [Discord 101](formations/discord-101.md)
 * [💡 Contribuer au Gitbook](les-bases/live-edit-and-locked-edits.md)
 
 ## Yeita
