@@ -24,8 +24,8 @@ Super ! Si c'est ta première contribution, allons-y ensemble :&#x20;
 
 <summary><strong>Si tu es uniquement lecteur du Gitbook</strong></summary>
 
-1. **Rédige ton ajout / ta modification** dans un document Word ou dans un message Slack _(en fonction de la longueur)_
-2. **Partages ton document / ton message** dans le canal Slack <mark style="color:blue;background-color:blue;">**#gitbook-contributions**</mark>
+1. **Rédige ton ajout / ta modification** dans un document Word ou dans un message Discord _(en fonction de la longueur)_
+2. **Partages ton document / ton message** dans le canal Discord _<mark style="background-color:yellow;">💡-contribution-gitbook</mark>_
 3. Un éditeur Gitbook se chargera d'ajouter rapidement ton ajout au Gitbook :relaxed:
 
 </details>
