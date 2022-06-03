@@ -9,8 +9,11 @@
 * [🤩 Découvrir Yeita](yeita/decouvrir-yeita/README.md)
   * [Une Organisation Alternative](yeita/decouvrir-yeita/une-organisation-alternative.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
+  * [Nos Chiffres](yeita/decouvrir-yeita/nos-chiffres.md)
   * [La Communauté](yeita/decouvrir-yeita/la-communaute.md)
-* [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita.md)
+* [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
+  * [Je suis interne Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-interne-yeita.md)
+  * [Je suis client Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-client-yeita.md)
 * [📖 Bibliothèque](yeita/bibliotheque.md)
 
 ## product&#x20;

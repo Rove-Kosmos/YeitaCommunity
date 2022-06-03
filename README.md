@@ -10,8 +10,8 @@ description: Toutes les infos pour bien démarrer, c'est ici.
 [decouvrir-yeita](yeita/decouvrir-yeita/)
 {% endcontent-ref %}
 
-{% content-ref url="yeita/les-premiers-pas-chez-yeita.md" %}
-[les-premiers-pas-chez-yeita.md](yeita/les-premiers-pas-chez-yeita.md)
+{% content-ref url="yeita/les-premiers-pas-chez-yeita/" %}
+[les-premiers-pas-chez-yeita](yeita/les-premiers-pas-chez-yeita/)
 {% endcontent-ref %}
 
 {% content-ref url="les-bases/live-edit-and-locked-edits.md" %}
