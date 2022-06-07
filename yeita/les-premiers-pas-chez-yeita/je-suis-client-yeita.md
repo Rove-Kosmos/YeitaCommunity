@@ -34,9 +34,9 @@ Vous vous apprêtez à accueillir un·e de nos consultant·es, alors voici un pe
   * [ ] Organisez des rencontres individuelles avec les personnes clés du projet
   * [ ] Présentez les outils que vous utilisez et comment vous vous organisez
   * [ ] Enfin, présentez le·les produit·s sur lesquels vous travaillez et donnez à la personne des accès aux différentes instances / plateformes
-* &#x20;**la fin de sa mission**
+* &#x20;**La fin de sa mission**
   * [ ] Faites un bilan de la mission avec le·la consultant·e
-  * [ ] Remplissez le questionnaire de satisfaction que nous vous aurons envoyé
+  * [ ] Remplissez le questionnaire de satisfaction que nous vous aurons envoyé _(ça nous aide beaucoup à savoir votre ressenti quant à la prestation !)_
 
 {% hint style="success" %}
 👵🏻 Si vous êtes content de notre prestation, n'hésitez pas à le mentionner sur vos réseaux sociaux avec le hashtag #yeita ! ♥️
