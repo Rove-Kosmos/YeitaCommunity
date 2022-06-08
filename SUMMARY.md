@@ -21,9 +21,9 @@
 ## product&#x20;
 
 * [👔 Entreprenariat](product/entreprenariat.md)
-* [🤝 Management (vide)](product/management-vide.md)
+* [🤝 Management](product/management.md)
 * [📋 Product Owning (vide)](product/product-owning-vide.md)
-* [🎯 Product Strategy (vide)](product/product-strategy-vide.md)
+* [🎯 Stratégie & Métriques](product/strategie-and-metriques.md)
 * [🧪 Tests & QA (vide)](product/tests-and-qa-vide.md)
 * [➕ Autres](product/autres.md)
 

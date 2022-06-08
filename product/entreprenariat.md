@@ -25,6 +25,7 @@ description: Parce que c'est VOTRE projet !
 
 * **Besoin d’aide pour prototyper votre startup ?** Des prestations packagées, transparentes, à prix réglo : [PACKMAN](http://www.packman.co/)
 * [Un template Excel de votre business plan](http://bit.ly/2kpONvQ)
+* [Growing a Startup - course](https://www.julian.com/guide/startup/intro)
 
 ## Lever des fonds
 
