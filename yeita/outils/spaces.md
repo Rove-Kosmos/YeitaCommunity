@@ -14,8 +14,8 @@ Gitbook est un outil de documentation collaboratif en ligne. À Yeita, notre Git
 
 ⚖️ Les articles, commentaires et liens publiés doivent respecter ces règles de base :&#x20;
 
-* **Ne pas promouvoir d'idées raciste, sexiste, discriminantes, politiques, religieuses** et autour de sujets illégaux.
-* **Le Gitbook n'est pas un espace publicitaire ni commercial, l**es données présentes ne doivent pas être utilisées en ce sens.&#x20;
+* **Ne pas promouvoir d'idées racistes, sexistes, discriminantes, politiques, religieuses** et autour de sujets illégaux.
+* **Le Gitbook n'est pas un espace publicitaire ni commercial,** les données présentes ne doivent pas être utilisées en ce sens.&#x20;
 
 ## Organisation
 
