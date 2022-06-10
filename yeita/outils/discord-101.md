@@ -51,7 +51,13 @@ Les rôles Discord permettent de définir qui fait quoi et comment. C'est un sys
 
 ## Fun&#x20;
 
-* <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 11.16.52.png" alt="" data-size="line"> Le Discord possède **des emojis personnalisés** tous plus débiles les uns que les autres. Vous pouvez les utiliser à volonté !
+* <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 11.16.52.png" alt="" data-size="line"> Le Discord possède **des emojis personnalisés** tous plus débiles les uns que les autres. Vous pouvez les utiliser à volonté !&#x20;
+
+{% hint style="info" %}
+Pour mettre des emojis dans vos messages, le moyen le plus rapide est d'écrire **":"** suivi du nom de l'emoji en anglais. \
+_Exemple : **`:heart:`** pour afficher_ :heart:__
+{% endhint %}
+
 * <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 11.12.14.png" alt="" data-size="line"> Vous pouvez ajouter les **GIFs** les plus fins de l'Internet via votre barre de message.
 * <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 11.15.20.png" alt="" data-size="line"> Le Discord possède UN et un seul autocollant Yeita _(parce que bon c'est long à faire lol)._ **Mettez-le partout !**
 * Vous pouvez également entrer des commandes dans les chats textuels qui font des choses rigolotes comme :&#x20;
