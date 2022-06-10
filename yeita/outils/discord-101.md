@@ -39,7 +39,6 @@ Et des channels où on échange à fond ! Tout le temps ! Aaaaargblblblb ! 👁o
 ![L'épingle est encadrée en rouge](<../../.gitbook/assets/Capture d’écran 2022-06-10 à 10.39.58.png>)
 
 * Discord existe sur Mac, Windows et Linux mais **aussi sur iOS et Android** et ça marche très bien ! Pas le temps d'aller sur l'ordi ? Vous n'arrivez pas à suivre les conversations ? [Alors prenez-le sur votre phone](https://discord.com/download) :)&#x20;
-* Au cas où, voici un ✨**lien magique impérissable✨** pour inviter des gens sur le Discord : [https://discord.gg/YgKVN36hUE](https://discord.gg/YgKVN36hUE)
 
 ## Rôles&#x20;
 

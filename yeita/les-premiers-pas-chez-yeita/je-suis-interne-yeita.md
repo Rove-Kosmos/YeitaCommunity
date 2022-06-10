@@ -7,7 +7,7 @@ description: C'est ton premier jour ? Tu es au bon endroit !
 ## Checklist d'arrivée
 
 * **En tout premier :**&#x20;
-  * [ ] Tu as [accès au Discord](https://discord.gg/YgKVN36hUE) _(viens dire bonjour dans <mark style="background-color:yellow;">💬-tchat</mark>)_
+  * [ ] Tu as accès au Discord _(viens dire bonjour dans <mark style="background-color:yellow;">💬-tchat</mark>)_
   * [ ] Tu as accès à ce Gitbook et au Gitbook Yeita Interne
 * **Pour la partie administrative :**&#x20;
   * [ ] Copie & remplit le [Document Administratif d'Embauche](https://yeitafr.sharepoint.com/:w:/s/Communaute/EcbPfKBT43JBscy61-U5bfoBozzB1BXiPtbmBO6q9NDPQw?e=aFPb1a)
