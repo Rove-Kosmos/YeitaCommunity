@@ -1,9 +1,6 @@
 # Table of contents
 
 * [👋 Bienvenue ici !](README.md)
-* [🎓 Formations](formations/README.md)
-  * [Gitbook 101](formations/spaces.md)
-  * [Discord 101](formations/discord-101.md)
 * [💡 Contribuer au Gitbook](les-bases/live-edit-and-locked-edits.md)
 
 ## Yeita
@@ -16,14 +13,17 @@
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
   * [Je suis interne Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-interne-yeita.md)
   * [Je suis client Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-client-yeita.md)
+* [🛠 Outils](yeita/outils/README.md)
+  * [Gitbook 101](yeita/outils/spaces.md)
+  * [Discord 101](yeita/outils/discord-101.md)
 * [📖 Bibliothèque](yeita/bibliotheque.md)
 
 ## product&#x20;
 
 * [👔 Entreprenariat](product/entreprenariat.md)
-* [🤝 Management](product/management.md)
+* [🤝 Management](product/management-vide.md)
 * [📋 Product Owning (vide)](product/product-owning-vide.md)
-* [🎯 Stratégie & Métriques](product/strategie-and-metriques.md)
+* [🎯 Stratégie & Métriques](product/product-strategy-vide.md)
 * [🧪 Tests & QA (vide)](product/tests-and-qa-vide.md)
 * [➕ Autres](product/autres.md)
 

@@ -10,7 +10,7 @@ description: Comment utiliser Gitbook en une page.
 
 ## Règles
 
-Gitbook est un outil de documentation collaboratif en ligne. À Yeita, notre Gitbook est ouvert à tous à la lecture, et seul·es les gens de Yeita peuvent y [contribuer](../les-bases/live-edit-and-locked-edits.md).
+Gitbook est un outil de documentation collaboratif en ligne. À Yeita, notre Gitbook est ouvert à tous à la lecture, et seul·es les gens de Yeita peuvent y [contribuer](../../les-bases/live-edit-and-locked-edits.md).
 
 ⚖️ Les articles, commentaires et liens publiés doivent respecter ces règles de base :&#x20;
 
