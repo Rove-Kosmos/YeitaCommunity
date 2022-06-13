@@ -16,6 +16,9 @@
 * [🛠 Outils](yeita/outils/README.md)
   * [Gitbook 101](yeita/outils/spaces.md)
   * [Discord 101](yeita/outils/discord-101.md)
+* [💼 Business & Stratégie](yeita/business-and-strategie/README.md)
+  * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
+  * [🗣 Discours de prospection](yeita/business-and-strategie/discours-de-prospection.md)
 * [📖 Bibliothèque](yeita/bibliotheque.md)
 
 ## product&#x20;
