@@ -30,6 +30,35 @@ Et des channels où on échange à fond ! Tout le temps ! Aaaaargblblblb ! 👁o
 * <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 10.24.21.png" alt="" data-size="line"> **Les channels vocaux sont la fierté de Discord.** On peut y parler avec la voix, partager sa vidéo ou son écran, et depuis très récemment on peut aussi avoir un petit chat écrit en plus.
 * <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 10.24.25.png" alt="" data-size="line"> **Les channels d'événements sont une nouveauté.** Ils fonctionnent comme des scènes ouvertes. On peut les rejoindre en tant que speaker ou simple membre du public. Ils servent à organiser tous les événements communautaires en distanciel _(meetups, podcasts, présentations, visionnages...)._
 
+{% hint style="info" %}
+**Idéalement**, nous aimerions que les discussions informelles et tout ce qui n'est pas administratif se fasse plus dans Discord que par email, afin d'encourager l'usage du Discord.
+{% endhint %}
+
+## Messages Privés
+
+{% hint style="info" %}
+Les messages privés sont décorellés des serveurs Discord. Donc aucun administrateur Yeita ne pourra voir ou lire vos messages privés avec d'autres utilisateurs.&#x20;
+{% endhint %}
+
+Vous pouvez évidemment envoyer des messages privés à n'importe **qu'il soit votre ami ou pas**.\
+Pour cela, cliquez droit sur son nom n'importe où et sélectionnez **"Envoyer un message"**.
+
+![](<../../.gitbook/assets/Capture d’écran 2022-06-13 à 15.01.43.png>)
+
+### Groupes privés
+
+En revanche, pour créer un groupe de discussion privé avec plusieurs utilisateurs, il faut que vous ayez les membres de ce groupe en ami. Cliquez droit sur le nom et en sélectionnant **"Ajouter un ami"**.
+
+<img src="../../.gitbook/assets/Capture d’écran 2022-06-13 à 15.03.17.png" alt="" data-size="original">
+
+Ensuite, il faut retourner dans vos messages privés, en cliquant sur le logo Discord en haut à gauche.
+
+<img src="../../.gitbook/assets/Capture d’écran 2022-06-13 à 15.08.11.png" alt="" data-size="original">
+
+Cliquez ensuite sur le petit "+" en face de **Messages Privés** et ajouter les amis que vous voulez à votre groupe privé.
+
+<img src="../../.gitbook/assets/Capture d’écran 2022-06-13 à 15.06.25.png" alt="" data-size="original">
+
 ## Fonctionnalités clés
 
 * Pour tout le formatage de texte possible, [toutes les informations sont ici](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-).
