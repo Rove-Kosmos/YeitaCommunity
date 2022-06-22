@@ -2,7 +2,7 @@
 description: C'est ton premier jour ? Tu es au bon endroit !
 ---
 
-# Je suis interne Yeita
+# Je suis membre de la Team Yeita
 
 ## Checklist d'arrivée
 
@@ -11,7 +11,7 @@ description: C'est ton premier jour ? Tu es au bon endroit !
   * [ ] Tu as accès à ce Gitbook et au Gitbook Yeita Interne
 * **Pour la partie administrative :**&#x20;
   * [ ] Copie & remplit le [Document Administratif d'Embauche](https://yeitafr.sharepoint.com/:w:/s/Communaute/EcbPfKBT43JBscy61-U5bfoBozzB1BXiPtbmBO6q9NDPQw?e=aFPb1a)
-  * [ ] Tu as accès à Payfit _(salaires & congés)_
+  * [ ] Tu as accès à [Payfit ](payfit.md)_(salaires & congés)_
   * [ ] Tu as reçu·e ta carte Swile _(tickets restaurant)_
   * [ ] Tu as reçu·e ta carte Alan _(mutuelle & prévoyance)_
   * [ ] Envoie une attestation Navigo à **peter.wullaert@yeita.fr** pour être remboursé·e 🚃

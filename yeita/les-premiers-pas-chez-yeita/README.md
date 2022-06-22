@@ -6,8 +6,8 @@ description: Onboarding interne & client, choisissez votre camp !
 
 ## Qui êtes-vous ?
 
-{% content-ref url="je-suis-interne-yeita.md" %}
-[je-suis-interne-yeita.md](je-suis-interne-yeita.md)
+{% content-ref url="je-suis-membre-de-la-team-yeita/" %}
+[je-suis-membre-de-la-team-yeita](je-suis-membre-de-la-team-yeita/)
 {% endcontent-ref %}
 
 {% content-ref url="je-suis-client-yeita.md" %}
