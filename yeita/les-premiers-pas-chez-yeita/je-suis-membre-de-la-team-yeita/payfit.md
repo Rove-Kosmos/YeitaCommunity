@@ -7,7 +7,8 @@ description: Qu'est ce donc ?????
 **Il s'agit de l'outil  qui te permet de :**&#x20;
 
 * [ ] Faire tes demandes d'absences et de congés :beach:
-* [ ] Récupérer ton Bulletin de Salaire (dispo le 1er de chaque mois )🎉💲💰&#x20;
+* [ ] Récupérer ton Bulletin de Salaire (dispo le 1er de chaque mois )🎉💲💰
+* [ ] Déclarer tes notes de frais&#x20;
 * [ ] [Saisir ton CRA : Suivi du Temps de Travail en Projet ](payfit.md#suivi-du-temps-de-travail)😎🚀
 
 ## **Comment utiliser PayFit - Guide Pratique 😍**
