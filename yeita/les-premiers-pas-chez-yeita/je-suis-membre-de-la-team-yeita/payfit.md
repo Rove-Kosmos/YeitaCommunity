@@ -1,5 +1,5 @@
 ---
-description: Qu'est ce donc ?????
+description: Qu'est ce donc ?
 ---
 
 # Payfit
