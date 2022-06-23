@@ -8,7 +8,7 @@ description: Vous venez de signer avec nous. What else ?
 
 Tout d'abord <mark style="color:red;">**un grand**</mark> <mark style="color:red;">**merci ♥️**</mark> à vous de faire confiance à Yeita. Nous sommes très enthousiastes de vous avoir parmis nous et nous avons hâte de travailler ensemble !
 
-Nous œuvrons au quotidien pour créer les meilleurs matchs entre nos clients et nos internes, tout en respectant nos valeurs d'authenticité, d'attention et d'audace. Nous espérons de tout coeur que votre expérience avec nous sera positive.
+Nous œuvrons au quotidien pour créer les meilleurs matchs entre nos clients et notre team, tout en respectant nos valeurs d'authenticité, d'attention et d'audace. Nous espérons de tout coeur que votre expérience avec nous sera positive.
 
 Si vous ne l'avez pas encore fait, n'hésitez pas à aller découvrir Yeita, notre communauté, et nos chiffres clés ici : &#x20;
 
