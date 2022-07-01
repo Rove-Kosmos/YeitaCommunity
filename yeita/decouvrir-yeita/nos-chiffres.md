@@ -16,18 +16,18 @@ description: ROI, KPI, et autres chiffres numéraires...
 ## Chiffres Clés
 
 {% tabs %}
-{% tab title="Au 31/05/22" %}
-**Chiffre d'affaires** = 65.825 €​
+{% tab title="Au 30/06/22" %}
+**Chiffre d'affaires** = 101.014 €​
 
-**Intéressement​ individuel** = 765 €​
+**Intéressement​ individuel** = 1457 €​
 
-**Créativité collective** = 2294 €​
+**Créativité collective** = 5827 €​
 {% endtab %}
 
 {% tab title="Projection au 31/12/22" %}
-**Chiffre d'affaires** = 525.000 €​
+**Chiffre d'affaires** = 600.000 €​
 
-**Intéressement individuel** = 4.500 € (quasi en net)​
+**Intéressement individuel** = 4.500 € (quasi en net)​ à pondérer en fonction de la date de ton arrivée
 
 **Créativité​ collective** = 25.000 €​
 {% endtab %}
