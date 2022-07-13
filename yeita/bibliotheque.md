@@ -10,7 +10,8 @@ description: SILENCE ! C'est une bibliothèque ici, pas une rave party !
 * Liberté & Cie : entreprises libérées
 * Reinventing Organisations : entreprises libéréés
 * La vérité sur ce qui nous motive - Daniel Pink&#x20;
-* Comment leur dire&#x20;
+* Comment leur dire (aller plus loin sur la process com)&#x20;
+* L'entreprise du bonheur - Tony Hsieh (Zappos)&#x20;
 
 
 
