@@ -4,22 +4,24 @@ description: 'Membres dans la Dream Team : 10'
 
 # La Communauté
 
-****[**Eitan Pierre**](https://www.linkedin.com/in/eitan-pierre-b6a51222b/) • Business Developer (Intern)
+[**Pauline Egea**](https://www.linkedin.com/in/pauline-egea-b9786813/) • Co-Founder / Business Developer - Janvier 2022
 
-[**Wang-Isabelle Bo**](https://www.linkedin.com/in/bowangisabelle/) • Product Owner
+[**Peter Wullaert**](https://www.linkedin.com/in/peter-wullaert-b9895488/) **** • Co-Founder / Business Developer - Janvier 2022
 
-****[**Romain Magri**](https://www.linkedin.com/in/magriromain/) • Product Designer
+****[**Isabelle Wang-Bo** ](https://www.linkedin.com/in/bowangisabelle/)**•** Product Owner - arrivée le 21/03/22&#x20;
 
-****[**Nathan Gatti**](https://www.linkedin.com/in/nathan-gatti/) • Product Owner
+[**Eitan Pierre**](https://www.linkedin.com/in/eitan-pierre-b6a51222b/) • Business Developer (Intern) - du 22/03/22 au 22/07/22
 
-****[**Pauline Egea**](https://www.linkedin.com/in/pauline-egea-b9786813/) • Co-Founder / Business Developer&#x20;
+[**Romain Magri**](https://www.linkedin.com/in/magriromain/) • Product Designer **** - arrivé le 19/04/22
 
-[**Peter Wullaert**](https://www.linkedin.com/in/peter-wullaert-b9895488/) **** • Co-Founder / Business Developer&#x20;
+[**Nathan Gatti**](https://www.linkedin.com/in/nathan-gatti/) • Product Owner - arrivé le 25/04/22
 
-[**Amélie Meppiel**](https://www.linkedin.com/in/ameliemeppiel/) • Product Designer _(Arrivée en juin 2022)_
+**Elodie Pelcat Lemarchand** • Scrum Master / Coach - arrivée le 27/06/22
 
-**Raphaël Bellalou** • Product Owner / Manager _(Arrivée en septembre 2022)_
+[**Amélie Meppiel**](https://www.linkedin.com/in/ameliemeppiel/) • Product Designer _-_ arrivée le 24/07/22
 
-**Juliette Simon** • Product Owner / Manager _(Arrivée en octobre 2022)_
+**Raphaël Bellalou** • Product Owner / Manager _- arrivée prévue le 3/10/22_
 
-**Leo EA Pinel** • Product Owner _(Arrivée en novembre 2022)_
+**Juliette Simon** • Product Owner / Manager - _arrivée prévue le 3/10/22_
+
+**Leo EA Pinel** • Product Owner _- arrivée prévue le 7/11/22_
