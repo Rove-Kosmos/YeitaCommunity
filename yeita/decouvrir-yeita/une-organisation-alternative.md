@@ -4,9 +4,9 @@ description: Co-construction, partage, valorisation et droit à l'échec
 
 # Une Organisation Alternative
 
-Yeita c'est surtout une aventure commune, nous nous différencions en proposant un environnement plus égalitaire et sociale : &#x20;
+Yeita c'est surtout une aventure commune, nous nous différencions en proposant un environnement plus égalitaire et social : &#x20;
 
-* **Nous construisons ensemble** le Yeita actuel et le futur Yeita, grâce à notre organisation plate et libérée. Pas de hiérarchie : cela nous permet d’attirer une équipe qui veut progresser, partager et faire partie d’une communauté qui partage les mêmes valeurs afin de participer à quelque chose de plus grand.\
+* **Nous construisons ensemble** le Yeita actuel et le futur Yeita, grâce à notre organisation plate et libérée. Pas/peu de hiérarchie : cela nous permet d’attirer une équipe qui veut progresser, partager et faire partie d’une communauté qui partage les mêmes valeurs afin de participer à quelque chose de plus grand.\
 
 * **Nous partageons** toutes les informations _(Connaissances, Salaires, CA, Bénéfices...)_ \
   __
@@ -20,4 +20,4 @@ Pour développer notre créativité et nos compétences nous mettons en place :&
 
 * **Une demi-journée tous les 2 mois** de coaching individualisé, de formation ou d’événement en équipe\
   &#x20;
-* **Une cagnotte créativité** générée collectivement grâce aux résultats de l’entreprise : et si on décidait de se faire un design sprint, une semaine de remote à Belleville Hills (_vous avez bien lu, oui)_ ou juste une conférence ?&#x20;
+* **Une cagnotte créative** générée collectivement grâce aux résultats de l’entreprise : et si on décidait de se faire un design sprint, une semaine de remote à Belleville Hills (_vous avez bien lu, oui)_ ou juste une conférence ?&#x20;
