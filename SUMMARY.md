@@ -9,7 +9,7 @@
   * [Une Organisation Alternative](yeita/decouvrir-yeita/une-organisation-alternative.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Nos Chiffres](yeita/decouvrir-yeita/nos-chiffres.md)
-  * [La Communauté](yeita/decouvrir-yeita/la-communaute.md)
+  * [La Team](yeita/decouvrir-yeita/la-team.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
   * [Je suis membre de la Team Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/README.md)
     * [Payfit](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/payfit.md)
