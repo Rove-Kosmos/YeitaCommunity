@@ -21,7 +21,7 @@ description: ROI, KPI, et autres chiffres numéraires...
 
 **Intéressement​ individuel** = 1457 €​
 
-**Créativité collective** = 5827 €​
+**Cagnotte créative** = 5827 €​
 {% endtab %}
 
 {% tab title="Projection au 31/12/22" %}
