@@ -4,6 +4,12 @@ description: Ceux qui nous font confiance
 
 # Nos Clients
 
+#### Juillet 2022
+
+{% embed url="https://www.fasst.io/" %}
+
+{% embed url="https://www.sncf-connect.com/" %}
+
 #### <mark style="color:blue;">Mars 2022</mark>
 
 {% embed url="https://www.hagergroup.com/" %}
