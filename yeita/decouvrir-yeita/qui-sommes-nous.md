@@ -1,8 +1,10 @@
 ---
-description: Co-construction, partage, valorisation et droit à l'échec
+description: >-
+  Une Organisation Alternative : Co-construction, partage, valorisation et droit
+  à l'échec
 ---
 
-# Une Organisation Alternative
+# Qui sommes-nous ?
 
 Yeita c'est surtout une aventure commune, nous nous différencions en proposant un environnement plus égalitaire et social : &#x20;
 

@@ -2,7 +2,7 @@
 description: 'Membres dans la Dream Team : 10'
 ---
 
-# La Communauté
+# La Team
 
 [**Pauline Egea**](https://www.linkedin.com/in/pauline-egea-b9786813/) • Co-Founder / Business Developer - Janvier 2022
 

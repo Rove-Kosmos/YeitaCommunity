@@ -6,11 +6,11 @@
 ## Yeita
 
 * [🤩 Découvrir Yeita](yeita/decouvrir-yeita/README.md)
-  * [Une Organisation Alternative](yeita/decouvrir-yeita/une-organisation-alternative.md)
-  * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
+  * [Qui sommes-nous ?](yeita/decouvrir-yeita/qui-sommes-nous.md)
   * [Nos Chiffres](yeita/decouvrir-yeita/nos-chiffres.md)
-  * [La Team](yeita/decouvrir-yeita/la-team.md)
+  * [La Team](yeita/decouvrir-yeita/la-team/README.md)
   * [Nos Rituels](yeita/decouvrir-yeita/nos-rituels.md)
+  * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Le Suivi](yeita/decouvrir-yeita/le-suivi.md)
   * [Cagnotte Créative](yeita/decouvrir-yeita/cagnotte-creative.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
