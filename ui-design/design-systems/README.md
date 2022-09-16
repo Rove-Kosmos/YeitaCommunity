@@ -8,6 +8,10 @@ description: Pour les fans de Marie Kondo
 
 Apprendre à faire un Design System avec :&#x20;
 
+{% hint style="info" %}
+[Cette Cheatsheet spéciale](https://www.figma.com/file/JEY6ubNZ6oKoNGmJbNGlON/Design-System-Cheatsheet?node-id=0%3A1) faite par Yeita sur les bases d'un design system
+{% endhint %}
+
 * Quelques articles pour les bases : [Everything You Need To Know About Design Systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969) ou encore [Component Design Guidelines](https://medium.com/eightshapes-llc/component-design-guidelines-eca706100e7c)&#x20;
 * Des cours gratuits : [DesignSystemCourse](https://www.figma.com/community/file/845663888506907071), [Figmaster](https://www.figmaster.co/)
 * Quelques plugins Figma/Sketch pour vous aider à créer votre design system : \
