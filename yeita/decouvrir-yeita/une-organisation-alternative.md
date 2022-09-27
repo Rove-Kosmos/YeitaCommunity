@@ -6,13 +6,13 @@ description: >-
 
 # Qui sommes-nous ?
 
-Yeita c'est surtout une aventure commune, nous nous différencions en proposant un environnement plus égalitaire et social : &#x20;
+Yeita c'est l'envie de vivre une expérience différente en proposant un environnement plus égalitaire et social : &#x20;
 
 * **Nous construisons ensemble** le Yeita actuel et le futur Yeita, grâce à notre organisation plate et libérée. Pas/peu de hiérarchie : cela nous permet d’attirer une équipe qui veut progresser, partager et faire partie d’une communauté qui partage les mêmes valeurs afin de participer à quelque chose de plus grand.\
 
 * **Nous partageons** toutes les informations _(Connaissances, Salaires, CA, Bénéfices...)_ \
   __
-* **Nous redistribuons** les bénéfices sous la forme d'une participation individuelle aux résultats de l’entreprise. Aussi, 2/3 des revenues engendrées par les missions sont reversées à la communauté pour apprendre _(formations, meetups, conférences...)_, créer _(livres blancs, tutoriels, produits à impact sociaux, projets...)_ et transmettre _(mentoring/coaching, accompagnement d’association, bénévolat...)_.\
+* **Nous redistribuons** les bénéfices sous la forme d'une participation individuelle aux résultats de l’entreprise. Aussi, 2/3 des revenus engendrées par les missions sont reversées à la communauté pour apprendre _(formations, meetups, conférences...)_, créer _(livres blancs, tutoriels, produits à impact sociaux, projets...)_ et transmettre _(mentoring/coaching, accompagnement d’association, bénévolat...)_.\
 
 * **Nous testons, nous mesurons, nous apprenons,** dans un cadre emprunt d'Agilité, de Delivery _(la théorie c’est bien mais la pratique c’est mieux)_ et de la méthode Lean StartUp.
 
