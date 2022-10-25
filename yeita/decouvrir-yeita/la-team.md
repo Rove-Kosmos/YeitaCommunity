@@ -22,9 +22,7 @@ description: 'Membres dans la Dream Team : 11'
 
 ****[**Leo EA Pinel** •](https://www.linkedin.com/in/l%C3%A9o-ea-pinel-563b3a73/) Product Owner _-_ arrivée prévue le 7/11/22
 
-****[**Thomas Andrieux-Boissac**](https://www.linkedin.com/in/thomas-ab/) **** [**•**](https://www.linkedin.com/in/l%C3%A9o-ea-pinel-563b3a73/) Product Designer _-_ arrivée prévue le 21/11/22
-
-****[**Juliette Ritoux •**](https://www.linkedin.com/in/juliette-ritoux-1374a560/) **** Product Designer _-_ arrivée prévue le 28/11/22
+****[**Juliette Ritoux •**](https://www.linkedin.com/in/juliette-ritoux-1374a560/) **** Product Designer _-_ arrivée prévue le 26/10/22 - Decathlon&#x20;
 
 
 
