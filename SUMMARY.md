@@ -30,7 +30,7 @@
 
 * [👔 Entreprenariat](product/entreprenariat.md)
 * [🤝 Management](product/management-vide.md)
-* [📋 Product Owning (vide)](product/product-owning-vide.md)
+* [📋 Product Owning](product/product-owning.md)
 * [🎯 Stratégie & Métriques](product/product-strategy-vide.md)
 * [🧪 Tests & QA (vide)](product/tests-and-qa-vide.md)
 * [➕ Autres](product/autres.md)
