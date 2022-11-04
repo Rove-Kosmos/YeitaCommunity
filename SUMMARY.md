@@ -33,8 +33,8 @@
 * [📋 Product Owning](product/product-owning.md)
 * [🎯 Stratégie & Métriques](product/product-strategy-vide.md)
 * [🧪 Tests & QA (vide)](product/tests-and-qa-vide.md)
-* [➕ Autres](product/autres.md)
 * [💚 Sharing is caring](product/sharing-is-caring.md)
+* [➕ Autres](product/autres.md)
 
 ## UI Design
 

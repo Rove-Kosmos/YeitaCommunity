@@ -27,3 +27,9 @@ description: SILENCE ! C'est une bibliothèque ici, pas une rave party !
 * [Ce que vous coûte vraiment l’effet “Wahou”](https://medium.com/@romaindao/ce-que-vous-co%C3%BBte-vraiment-leffet-wahou-9552d1f48d4) (à ressortir au premier qui vous parle d'effet "wahou")
 * [Au-delà des personas, les modèles d’usage](https://spheres.medium.com/au-del%C3%A0-des-personas-les-mod%C3%A8les-dusage-c9ad40419314)
 
+
+
+### Product
+
+* Discovery Discipline - Tristan Charvillat & Rémi Guyot "la méthode radicale pour exceller en Product Discovery"&#x20;
+* Mesurez ce qui compte - John Doerr " Comment google, Bono et la fondation Gates ont révolutionné le monde grâce à la méthode OKR"&#x20;
