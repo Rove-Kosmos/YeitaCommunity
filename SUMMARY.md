@@ -15,6 +15,7 @@
   * [Cagnotte Créative](yeita/decouvrir-yeita/cagnotte-creative.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
   * [Je suis membre de la Team Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/README.md)
+    * [Le Suivi "Mamie"](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/le-suivi-mamie.md)
     * [Payfit](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/payfit.md)
     * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/visite-medicale.md)
   * [Je suis client Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-client-yeita.md)

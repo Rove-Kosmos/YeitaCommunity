@@ -11,6 +11,7 @@ description: C'est ton premier jour ? Tu es au bon endroit !
     * [ ] Tu as accès au Discord _(viens dire bonjour dans <mark style="background-color:yellow;">💬-tchat</mark>)_
     * [ ] Tu as accès à ton mail Yeita&#x20;
     * [ ] Tu as accès à ce Gitbook en tant que créateur
+    * [ ] Tu t'es choisi une "[Mamie](https://app.gitbook.com/o/gkVcm8Pssbr2KEjh9khz/s/pmXoIPcdbRBboDbV3rQL/\~/changes/STEzjKl7TijHNfTJi3zC/yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/le-suivi-mamie)" pour faire ton suivi
 
 
 *   **Pour la partie administrative :**&#x20;
