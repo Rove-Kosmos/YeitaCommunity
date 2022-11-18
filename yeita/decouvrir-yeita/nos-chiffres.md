@@ -4,10 +4,7 @@ description: ROI, KPI, et autres chiffres numéraires...
 
 # Nos Chiffres
 
-## Informations
-
-* **10 personnes dans la team** pour 80 candidats rencontrés
-* **1 référencement** France Télévisions, **1 avant-vente** au Ministère des Affaires Sociales, et **4 projets facturés** pour 30 clients rencontrés
+## Objectif - les locaux en 2023
 
 {% hint style="info" %}
 **Objectif fin 2022 :** entre 10 et 15 projets facturés

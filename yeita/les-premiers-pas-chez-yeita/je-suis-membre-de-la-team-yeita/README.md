@@ -16,7 +16,7 @@ description: C'est ton premier jour ? Tu es au bon endroit !
 
 *   **Pour la partie administrative :**&#x20;
 
-    * [ ] Tu as accès à [Payfit ](payfit.md)_(salaires & congés)_
+    * [ ] Tu as accès à [Payfit ](payfit-note-de-frais.md)_(salaires & congés)_
     * [ ] Tu as reçu·e ta carte Swile _(tickets restaurant)_
     * [ ] Tu t'es inscrit·e chez Alan _(mutuelle & prévoyance)_
     * [ ] Tu as fais ta [Visite Médicale](visite-medicale.md)

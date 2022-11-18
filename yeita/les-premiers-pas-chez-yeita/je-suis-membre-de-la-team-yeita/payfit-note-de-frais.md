@@ -2,14 +2,14 @@
 description: Qu'est-ce donc ?
 ---
 
-# Payfit
+# Payfit / Note de Frais
 
 **Il s'agit de l'outil qui te permet de :**&#x20;
 
 * [ ] Faire tes demandes d'absences et de congés :beach:
 * [ ] Récupérer ton Bulletin de Salaire _(disponible le 1er de chaque mois )_🎉💰
-* [ ] [Déclarer tes notes de frais ](payfit.md#note-de-frais-depense-deplacement)
-* [ ] [Saisir ton CRA : Suivi du Temps de Travail en Projet ](payfit.md#suivi-du-temps-de-travail)😎🚀
+* [ ] [Déclarer tes notes de frais ](payfit-note-de-frais.md#note-de-frais-depense-deplacement)
+* [ ] [Saisir ton CRA : Suivi du Temps de Travail en Projet ](payfit-note-de-frais.md#suivi-du-temps-de-travail)😎🚀
 
 ## **Comment utiliser PayFit - Guide Pratique 😍**
 
