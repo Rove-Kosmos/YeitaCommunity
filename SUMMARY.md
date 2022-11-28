@@ -17,7 +17,7 @@
   * [Je suis client Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-client-yeita.md)
   * [Je suis membre de la Team Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/README.md)
     * [Le Suivi "Mamie"](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/le-suivi-mamie.md)
-    * [Payfit / Note de Frais](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/payfit-note-de-frais.md)
+    * [Payfit, CRA & Note de Frais](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/payfit-cra-and-note-de-frais.md)
     * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/visite-medicale.md)
     * [Carte Bancaire => Cagnotte](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/carte-bancaire-greater-than-cagnotte.md)
 * [🛠 Outils](yeita/outils/README.md)
