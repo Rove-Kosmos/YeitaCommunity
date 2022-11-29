@@ -20,6 +20,7 @@
     * [Payfit, CRA & Note de Frais](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/payfit-cra-and-note-de-frais.md)
     * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/visite-medicale.md)
     * [Carte Bancaire => Cagnotte](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/carte-bancaire-greater-than-cagnotte.md)
+    * [Matériel de Confort](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/materiel-de-confort.md)
 * [🛠 Outils](yeita/outils/README.md)
   * [Gitbook 101](yeita/outils/spaces.md)
   * [Discord 101](yeita/outils/discord-101.md)
