@@ -12,7 +12,7 @@
   * [Nos Rituels](yeita/decouvrir-yeita/nos-rituels.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Le Suivi - Chacun sa Granny !](yeita/decouvrir-yeita/le-suivi-chacun-sa-granny.md)
-  * [Cagnotte Créative](yeita/decouvrir-yeita/cagnotte-creative.md)
+  * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
   * [Je suis client Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-client-yeita.md)
   * [Je suis membre de la Team Yeita](yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/README.md)
