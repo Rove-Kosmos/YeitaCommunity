@@ -6,6 +6,10 @@ description: C'est ton premier jour ? Tu es au bon endroit !
 
 ## Checklist d'arrivée
 
+* **Une semaine avant ton arrivée :**&#x20;
+  * [ ] Tu as fais un Point de Bienvenue avec [Peter Wullaert](https://app.gitbook.com/u/c8haRii4T2aSVAPPdX6sGIcA8IO2 "mention") ou [Romain Magri](https://app.gitbook.com/u/XzDIwN53YqMfH0vKnx5LAa4Nndm2 "mention") \
+    _(présentation des outils & création des accès)_\
+
 *   **En tout premier :**&#x20;
 
     * [ ] Tu as accès au Discord _(viens dire bonjour dans <mark style="background-color:yellow;">💬-tchat</mark>)_

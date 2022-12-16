@@ -24,19 +24,26 @@ Vous vous apprêtez à accueillir un·e de nos consultant·es, alors voici un pe
   * [ ] Informez vos services RH & IT de l'arrivée du consultant
   * [ ] Préparez ses accès à votre entreprise (badge, clés, informations de sécurité...)
   * [ ] Préparez ses comptes et accès outils (mail, figma, atlassian, office...)
-  * [ ] _(optionnel) Nos consultants ont leurs propres ordinateurs. Mais si votre organisation impose un ordinateur interne sécurisé, veillez bien à le préparer avant son premier jour_
+  * [ ] _(optionnel) Nos consultants ont leurs propres ordinateurs. Mais si votre organisation impose un ordinateur interne sécurisé, veillez bien à le préparer avant son premier jour_\
+    __
 * **Lors de son premier jour (de préférence en présentiel)**
   * [ ] Faites le tour des locaux et présentez-le aux équipes & services présents
   * [ ] Remettez-lui les clés et accès, informez-le des éventuelles règles en vigueur dans votre établissement
   * [ ] Accordez-vous avec la personne au sujet du télétravail et des éventuels jours off
-  * [ ] Organisez un point d'échange avec l'équipe dans laquelle il·elle sera rattaché·e
+  * [ ] Organisez un point d'échange avec l'équipe dans laquelle il·elle sera rattaché·e\
+
 * **Lors de sa première semaine**
   * [ ] Organisez des rencontres individuelles avec les personnes clés du projet
   * [ ] Présentez les outils que vous utilisez et comment vous vous organisez
-  * [ ] Enfin, présentez le·les produit·s sur lesquels vous travaillez et donnez à la personne des accès aux différentes instances / plateformes
+  * [ ] Enfin, présentez le·les produit·s sur lesquels vous travaillez et donnez à la personne des accès aux différentes instances / plateformes\
+
+* **15 jours après son démarrage**
+  * [ ] Rétrospective d'arrivée du consultant & Yeita vous présente son modèle et sa culture\
+
 * &#x20;**La fin de sa mission**
   * [ ] Faites un bilan de la mission avec le·la consultant·e
-  * [ ] Remplissez le questionnaire de satisfaction que nous vous aurons envoyé _(ça nous aide beaucoup à savoir votre ressenti quant à la prestation !)_
+  * [ ] Remplissez le questionnaire de satisfaction que nous vous aurons envoyé _(ça nous aide beaucoup à savoir votre ressenti quant à la prestation !)_\
+    __
 
 {% hint style="success" %}
 👵🏻 Si vous êtes content de notre prestation, n'hésitez pas à le mentionner sur vos réseaux sociaux avec le hashtag #yeita ! ♥️
