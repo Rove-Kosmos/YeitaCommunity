@@ -14,3 +14,4 @@ Le système "Mamie" a été mis en place pour palier au problème du manque de s
 * Vous et votre mamie devez faire un suivi régulier de la fréquence de votre choix pour parler des problèmes, de ce qui va et de ce qu'on doit changer
 * La relation avec la mamie est un safe space : <mark style="color:red;">**tout ce qui est dit avec la mamie reste avec la mamie**</mark>, sauf si les deux sont d'accord pour en parler à une autre personne.
 * Vous pouvez changer de mamie à tout moment si vous jugez que votre besoin a évolué, rien n'est figé dans le marbre
+* Une fois que tu as choisi ta mamie, tu peux la renseigner dans ce doc : [https://docs.google.com/spreadsheets/d/1nac0OBdhkUJrcoJmmgGAeaMd\_9WhIUDjS4dHf0DNMKw/edit#gid=0](https://docs.google.com/spreadsheets/d/1nac0OBdhkUJrcoJmmgGAeaMd\_9WhIUDjS4dHf0DNMKw/edit#gid=0)
