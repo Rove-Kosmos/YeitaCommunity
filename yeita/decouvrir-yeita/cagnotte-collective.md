@@ -83,7 +83,7 @@ Rappel : 3K par an par personne dès maintenant pris sur le budget 2023 sur la c
 
 #### 🤑 🤑  **Pour dépenser les sous, comment je fais ?**&#x20;
 
-👉 Toutes les infos sont [ici ](../les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/carte-bancaire-greater-than-cagnotte.md)\
+👉 Toutes les infos sont [ici ](../les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)\
 
 
 ### **Pour qui ?**&#x20;

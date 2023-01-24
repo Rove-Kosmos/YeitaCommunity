@@ -17,7 +17,7 @@ Une fois ton inscription faite, tu auras une carte virtuelle qui te sera attribu
 
 ## <mark style="color:purple;">🛑Important🛑</mark>
 
-* N'hésite pas à regarder le [cadre d'utilisation de la Cagnotte ](../../decouvrir-yeita/cagnotte-collective.md)
+* N'hésite pas à regarder le [cadre d'utilisation de la Cagnotte ](../decouvrir-yeita/cagnotte-collective.md)
 * <mark style="color:red;">Pour toutes dépenses, il est obligatoire d'avoir une facture au nom de Yeita, 57 rue de la Roquette 75011 Paris et qui fasse apparaitre le Montant HT et TTC</mark>
 * Envoyer la <mark style="color:red;"></mark> facture à Peter&#x20;
 * Remplir le document de dépenses de la Cagnotte qui est sur le Drive Yeita
