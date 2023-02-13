@@ -11,6 +11,7 @@
   * [La Team](yeita/decouvrir-yeita/la-team.md)
   * [Nos Rituels](yeita/decouvrir-yeita/nos-rituels.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
+  * [Les locaux](yeita/decouvrir-yeita/les-locaux.md)
   * [Le Suivi - Chacun sa Granny !](yeita/decouvrir-yeita/le-suivi-chacun-sa-granny.md)
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
