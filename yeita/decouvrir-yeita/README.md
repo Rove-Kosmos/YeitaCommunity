@@ -2,7 +2,7 @@
 description: L'histoire sans fin qui nous fait vibrer ♥️
 ---
 
-# 🤩 Qui sommes-nous ?
+# 🤩 Découvrir Yeita
 
 ## Introduction
 
@@ -20,9 +20,11 @@ description: L'histoire sans fin qui nous fait vibrer ♥️
 
 ### Notre métier &#x20;
 
-* **Le Conseil Client :** Accompagner nos clients dans la création et le développement de leurs produits digitaux grâce à nos expertises en product management et en product design (AT régie ou ponctuel)   \
+Nous sommes un collectif spécialisé dans le product management et le product design. Notre dada, c’est d’accompagner nos client.e.s dans la réalisation de leurs produits digitaux et dans l’amélioration de leurs pratiques en renforçant leurs équipes opérationnelles.
 
-* **La Conception** de produits Open Sources à impact social et environnemental grâce à nos clients.
+Notre Savoir Faire : Le produit sous toutes ses facettes
+
+Notre approche produit est pragmatique, nous mettons tout en œuvre pour le confronter le plus vite et le plus souvent possible à son marché afin de recueillir des retours des utilisateur.rice.s et ainsi piloter de manière éclairée son amélioration continue.
 
 ## Nos valeurs
 
