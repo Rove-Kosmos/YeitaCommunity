@@ -69,7 +69,7 @@ Rappel : 3K par an par personne dès maintenant pris sur le budget 2023 sur la c
 
 👉 _Matériel obligatoire_ (pris en charge par Yeita) : Ordinateur (si non fourni par le client) licences
 
-👉 _Matériel de confort mais nécessaire_ (cagnotte) : Casque micro, liseuse, un clavier, une souris -> Go dans la limite de 500e/an/personne. Pas besoin de demander à l'équipe simplement de le mettre dans le [fichier](https://docs.google.com/spreadsheets/d/1JcRWrmeCgsEMC5Gic3hqK1hUdj3QLWlScFIFyvIBY14/edit#gid=1393811237).&#x20;
+👉 _Matériel de confort mais nécessaire_ (cagnotte) : Casque micro, liseuse, un clavier, une souris -> Go dans la limite de 500e/an/personne (dès le premier jour d'arrivée chez Yeita). Pas besoin de demander à l'équipe simplement de le mettre dans le [fichier](https://docs.google.com/spreadsheets/d/1JcRWrmeCgsEMC5Gic3hqK1hUdj3QLWlScFIFyvIBY14/edit#gid=1393811237).&#x20;
 
 #### **Exemple 7 : Achat de livres**
 
