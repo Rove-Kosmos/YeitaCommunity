@@ -2,7 +2,7 @@
 description: Pour savoir où on va et comment on y va
 ---
 
-# 🎯 Stratégie & Métriques
+# Stratégie & Métriques
 
 ## Stratégie
 

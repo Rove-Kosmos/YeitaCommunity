@@ -2,7 +2,7 @@
 description: Pour ceux qui aiment les post-its
 ---
 
-# 📝 Ateliers
+# Ateliers & Biais
 
 ## Animation
 
@@ -24,3 +24,11 @@ description: Pour ceux qui aiment les post-its
 * [FOG Method](https://uxdesign.cc/fog-research-and-design-method-ec94909143d4) : Reduce biaised opinions
 * [59 Questions for Mindful UX Design](https://thistooshallgrow.com/blog/questions-mindful-design)
 * [UMUX-Lite : Alternative au NPS](https://medium.com/design-ux-francophone/m%C3%A9triques-utilisateurs-lumux-lite-a009c26752cb)
+
+## Biais Cognitifs
+
+* [Laws of UX](https://jonyablonski.com/articles/2021/laws-of-ux-v2.0/) Une collections de lois heuristiques appliquées au web (similaire : [Digital Psychology](https://digitalpsychology.io/))
+* [Psychology of Design](https://growth.design/psychology) est une liste de biais cognitifs auxquels faire attention.
+* [The Psychology Principles Every UI/UX Designer Needs to Know](https://uxplanet.org/the-psychology-principles-every-ui-ux-designer-needs-to-know-24116fd65778)
+* [Gamification : Motivation Model](https://uxplanet.org/gamification-motivation-model-911f6ba17863)
+* [Designing with Data](https://uxdesign.cc/designing-with-data-ed721ffa008e) : les biais cognitifs qu'on peut rencontrer avec de la data

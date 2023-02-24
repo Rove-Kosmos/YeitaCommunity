@@ -2,7 +2,7 @@
 description: 01_Skills PO PM V0
 ---
 
-# 📋 Product Owning
+# Product Owning
 
 ## Grille de compétences pour auto évaluation PO PM&#x20;
 

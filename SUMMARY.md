@@ -2,6 +2,7 @@
 
 * [👋 Bienvenue ici !](README.md)
 * [💡 Contribuer au Gitbook](les-bases/live-edit-and-locked-edits.md)
+* [❓ F.A.Q](f.a.q.md)
 
 ## Yeita
 
@@ -10,7 +11,6 @@
   * [Nos Chiffres](yeita/decouvrir-yeita/nos-chiffres.md)
   * [Nos Rituels](yeita/decouvrir-yeita/nos-rituels.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
-  * [Les locaux](yeita/decouvrir-yeita/les-locaux.md)
   * [Le Suivi - Chacun sa Granny !](yeita/decouvrir-yeita/le-suivi-chacun-sa-granny.md)
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
@@ -19,44 +19,28 @@
   * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/visite-medicale.md)
   * [Carte Bancaire => Cagnotte](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)
   * [Matériel de Confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md)
-* [🛠 Outils](yeita/outils/README.md)
-  * [Gitbook 101](yeita/outils/spaces.md)
-  * [Discord 101](yeita/outils/discord-101.md)
+  * [Sharing is caring](yeita/les-premiers-pas-chez-yeita/sharing-is-caring.md)
+* [🏢 Les locaux](yeita/les-locaux.md)
 * [💼 Business & Stratégie](yeita/business-and-strategie/README.md)
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
   * [🗣 Discours de prospection](yeita/business-and-strategie/discours-de-prospection.md)
-* [📖 Bibliothèque](yeita/bibliotheque.md)
+* [🛠 Tutoriels](yeita/tutoriels/README.md)
+  * [Gitbook 101](yeita/tutoriels/spaces.md)
+  * [Discord 101](yeita/tutoriels/discord-101.md)
 
-## product&#x20;
+## ressources
 
-* [👔 Entreprenariat](product/entreprenariat.md)
-* [🤝 Management](product/management-vide.md)
-* [📋 Product Owning](product/product-owning.md)
-* [🎯 Stratégie & Métriques](product/product-strategy-vide.md)
-* [🧪 Tests & QA (vide)](product/tests-and-qa-vide.md)
-* [💚 Sharing is caring](product/sharing-is-caring.md)
-* [➕ Autres](product/autres.md)
-
-## UI Design
-
-* [👁 Visual Design](ui-design/visual-design/README.md)
-  * [Couleurs](ui-design/couleurs.md)
-  * [Icons, Illustrations, Photos](ui-design/visual-design/icons-illustrations-photos.md)
-  * [Typographie](ui-design/visual-design/typographie.md)
-* [🗃 Design Systems](ui-design/design-systems/README.md)
-  * [Composants](ui-design/design-systems/composants.md)
-  * [Bonnes pratiques](ui-design/design-systems/bonnes-pratiques.md)
-* [🛠 Outils](ui-design/figma.md)
-* [♿ Accessibilité](ui-design/accessibilite.md)
-* [🛍 Branding](ui-design/branding.md)
-* [🎥 Motion](ui-design/motion.md)
-* [➕ Autres](ui-design/autres.md)
-
-## UX Design
-
-* [📝 Ateliers](ux-design/ateliers.md)
-* [✒ UX Writing](ux-design/ux-writing.md)
-* [🛠 Outils](ux-design/outils.md)
-* [🌱 Ecodesign & Ethique](ux-design/ecodesign-and-ethique.md)
-* [🧠 Psychologie Cognitive](ux-design/psychologie-cognitive.md)
-* [➕ Autres](ux-design/autres.md)
+* [📖 Bibliothèque](ressources/bibliotheque.md)
+* [🎯 Product Management](ressources/product-management/README.md)
+  * [Management](ressources/product-management/management.md)
+  * [Stratégie & Métriques](ressources/product-management/strategie-and-metriques.md)
+  * [Collaboration](ressources/product-management/collaboration.md)
+  * [Product Owning](ressources/product-management/product-owning.md)
+* [📐 Product Design](ressources/product-design/README.md)
+  * [Ateliers & Biais](ressources/product-design/ateliers-and-biais.md)
+  * [Couleurs](ressources/product-design/couleurs.md)
+  * [Icons, Illustrations, Photos](ressources/product-design/icons-illustrations-photos.md)
+  * [Typographie & UX Writing](ressources/product-design/typographie-and-ux-writing.md)
+  * [Design Language Systems](ressources/product-design/design-language-systems.md)
+  * [Accessibilité & Ecodesign](ressources/product-design/accessibilite-and-ecodesign.md)
+  * [Outils](ressources/product-design/outils.md)

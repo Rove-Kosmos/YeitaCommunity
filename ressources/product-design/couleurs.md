@@ -1,3 +1,7 @@
+---
+description: Pour les artistes.
+---
+
 # Couleurs
 
 ## Palette Picker

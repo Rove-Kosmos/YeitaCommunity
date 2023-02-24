@@ -2,7 +2,7 @@
 description: Pour les fans de Marie Kondo
 ---
 
-# 🗃 Design Systems
+# Design Language Systems
 
 ## Comment faire ?
 
@@ -27,8 +27,21 @@ Apprendre à faire un Design System avec :&#x20;
 * [Zeroheight](https://zeroheight.com/) pour créer un design system à mi-chemin entre Storybook (React) et Sketch/Figma&#x20;
 * Outils de documentation simple : [Confluence](https://www.atlassian.com/fr/software/confluence), [Dropbox Paper](https://www.dropbox.com/fr/paper), [Notion](https://www.notion.so), [Gitbook](https://www.gitbook.com/)
 
-## Inspirations & Ressources
+## Inspirations & Templates
 
 * [CORE](https://designsystemcore.com/) Design System starters kit
 * [Designsystems.fr](http://designsystems.fr), [DesignSystemsREPO](https://designsystemsrepo.com/?ref=prototyprio), [DesignSystemsForFigma](https://www.designsystemsforfigma.com/), [OpenDesignSystems](https://www.designsystems.com/open-design-systems/): collections de design systems publiques pour s'inspirer (et [Nord Design System](https://nordhealth.design/) qui est bien aussi)
 * [DesignSystemIcons](https://superfriendlydesign.systems/tools/icons/) : une petite librairie d’icônes pour illustrer les sections de votre design system
+* [Atomize design](https://atomizedesign.com/) est un UI kit pour Figma très avancé
+* [Files.design](https://files.design/free) est une librairie gratuite d'UI iOS
+* [Bemore.graphics](https://www.bemore.graphics/) est une collection gratuite de 40 iPhones 3D pour vos showcases UI
+* [EmptyStates](https://emptystat.es/) : une gallerie d'exemples d'empty states pour s'inspirer
+* [CollectUI](https://collectui.com/) : une gallerie d'exemples de composants pour s'inspirer (similaires : [Component Gallery](https://component.gallery/components/), [Design Vault](https://designvault.io/), [SaaSFrame](https://www.saasframe.io/))
+* [Mobbin](https://mobbin.design/browse/ios/apps) est une collection d'UI tirés de vraies apps mobiles (similaires : [UIsources](https://www.uisources.com/apps), [UIgarage](https://uigarage.net/), [Screenlane](https://screenlane.com/?ref=uimovement))
+
+## Bonnes Pratiques
+
+* [\[EN\] Pourquoi les designers devraient travailler en rem ? (et comment le faire dans Figma)](https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-in-figma-c0ea23e07a15)
+* [Design System — Quels pièges éviter quand on est seul designer ? 🙊🙈🙉](https://medium.com/p/3fb9f92547da)&#x20;
+* [DesignSystems](https://www.designsystems.com/) : articles et bonnes pratiques autour des design systems
+* [\[EN\] Best practices for modal window design ](https://uxplanet.org/best-practices-for-modal-window-design-627f7aba57f1)
