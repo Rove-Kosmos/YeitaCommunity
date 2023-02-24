@@ -46,12 +46,3 @@ Yeita c'est l'envie de vivre une expérience différente en proposant un environ
 * **Nous redistribuons** les bénéfices : 30% sous la forme d'une participation individuelle (15%) et via la cagnotte collective (15%). \
 
 * **Nous testons, nous mesurons, nous apprenons,** dans un cadre emprunt d'Agilité, de Delivery _(la théorie c’est bien mais la pratique c’est mieux)_ et de la méthode Lean StartUp.
-
-## Nos Chiffres
-
-Pour découvrir l'évolution du CA, de l'intéressement et des chiffres Yeita, rendez-vous sur le dernier slide des Conseils mensuels Yeita. \
-:point\_down::point\_down::point\_down:
-
-{% embed url="https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT" %}
-Par ici les Conseils !
-{% endembed %}

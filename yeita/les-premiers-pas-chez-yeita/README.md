@@ -7,20 +7,20 @@ description: C'est ton premier jour ? Tu es au bon endroit !
 ## Onboarding
 
 1. Peter t'as envoyé l'<mark style="background-color:green;">**email de bienvenue**</mark> à la création de ton compte Google Yeita
-2. La communauté te définie une "[Mamie](broken-reference)" provisoire qui fera un <mark style="background-color:green;">**point de bienvenue**</mark> avec toi pour t'expliquer nos outils et rituels et répondre à tes questions.
+2. La communauté te définie une "[Mamie](../decouvrir-yeita/rituels-and-suivi-mamie.md)" provisoire qui fera un <mark style="background-color:green;">**point de bienvenue**</mark> avec toi pour t'expliquer nos outils et rituels et répondre à tes questions.
 3. Ton arrivée est autonome grâce à la checklist ci-dessous ⬇
 
 ## Checklist d'arrivée
 
 * **Avant ton arrivée :**&#x20;
-  * [ ] Tu as fais un Point de Bienvenue avec ta [Mamie provisoire ](broken-reference)\
+  * [ ] Tu as fais un Point de Bienvenue avec ta [Mamie provisoire ](../decouvrir-yeita/rituels-and-suivi-mamie.md)\
     _(présentation des outils & création des accès)_\
 
 * **En tout premier :**     &#x20;
   * [ ] Tu as accès au Discord _(viens dire bonjour dans <mark style="background-color:yellow;">💬-tchat</mark>)_
   * [ ] Tu as accès à ton mail Yeita&#x20;
   * [ ] Tu as accès à ce Gitbook en tant que créateur
-  * [ ] Tu t'es choisi une "[Mamie](https://app.gitbook.com/o/gkVcm8Pssbr2KEjh9khz/s/pmXoIPcdbRBboDbV3rQL/\~/changes/STEzjKl7TijHNfTJi3zC/yeita/les-premiers-pas-chez-yeita/je-suis-membre-de-la-team-yeita/le-suivi-mamie)" pour faire ton suivi
+  * [ ] Tu t'es choisi une "[Mamie](../decouvrir-yeita/rituels-and-suivi-mamie.md)" pour faire ton suivi
   * [ ] Tu as organisé ton apéro de bienvenue en invitant [team@yeita.fr](mailto:team@yeita.fr) dans ton bar préféré :tada: _(soirée financée par Yeita, bien sûr)_\
 
 * **Pour la partie administrative :**&#x20;

@@ -15,7 +15,7 @@ Une fois ton inscription faite, tu auras une carte virtuelle qui te sera attribu
 
 {% embed url="https://qonto.com/fr" %}
 
-## <mark style="color:purple;">🛑Important🛑</mark>
+## <mark style="color:purple;">🛑</mark><mark style="color:red;">Important</mark><mark style="color:purple;">🛑</mark>
 
 * N'hésite pas à regarder le [cadre d'utilisation de la Cagnotte ](../decouvrir-yeita/cagnotte-collective.md)
 * <mark style="color:red;">Pour toutes dépenses, il est obligatoire d'avoir une facture au nom de Yeita, 57 rue de la Roquette 75011 Paris et qui fasse apparaitre le Montant HT et TTC</mark>

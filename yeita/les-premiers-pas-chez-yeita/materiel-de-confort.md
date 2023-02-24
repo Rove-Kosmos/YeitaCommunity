@@ -16,6 +16,6 @@ Tu utilises directement ta CB Yeita (Qonto) pour régler la dépense&#x20;
 
 Transmettre la facture au nom de Yeita + adresse + TVA apparente
 
-**👇👇Compléter le doc des dépenses de la cagnotte Creative  👇👇**
+**👇👇 Compléter le doc des dépenses de la cagnotte Creative 👇👇**
 
 {% embed url="https://docs.google.com/spreadsheets/d/1JcRWrmeCgsEMC5Gic3hqK1hUdj3QLWlScFIFyvIBY14/edit?usp=share_link" %}
