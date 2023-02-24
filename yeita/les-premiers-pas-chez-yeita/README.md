@@ -7,13 +7,13 @@ description: C'est ton premier jour ? Tu es au bon endroit !
 ## Onboarding
 
 1. Peter t'as envoyé l'<mark style="background-color:green;">**email de bienvenue**</mark> à la création de ton compte Google Yeita
-2. La communauté te définie une "[Mamie](le-suivi-mamie.md)" provisoire qui fera un <mark style="background-color:green;">**point de bienvenue**</mark> avec toi pour t'expliquer nos outils et rituels et répondre à tes questions.
+2. La communauté te définie une "[Mamie](broken-reference)" provisoire qui fera un <mark style="background-color:green;">**point de bienvenue**</mark> avec toi pour t'expliquer nos outils et rituels et répondre à tes questions.
 3. Ton arrivée est autonome grâce à la checklist ci-dessous ⬇
 
 ## Checklist d'arrivée
 
 * **Avant ton arrivée :**&#x20;
-  * [ ] Tu as fais un Point de Bienvenue avec ta [Mamie provisoire ](le-suivi-mamie.md)\
+  * [ ] Tu as fais un Point de Bienvenue avec ta [Mamie provisoire ](broken-reference)\
     _(présentation des outils & création des accès)_\
 
 * **En tout premier :**     &#x20;

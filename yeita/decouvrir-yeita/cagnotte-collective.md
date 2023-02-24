@@ -77,7 +77,7 @@ Rappel : 3K par an par personne dès maintenant pris sur le budget 2023 sur la c
 
 #### **Exemple  8 : Voyages / Activité fun**
 
-👉 Pas dans la cagnotte collective ! Pris en charge par [Yeita ](nos-rituels.md)
+👉 Pas dans la cagnotte collective ! Pris en charge par [Yeita ](rituels-and-suivi-mamie.md)
 
 
 
