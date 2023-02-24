@@ -2,7 +2,7 @@
 description: Comment utiliser les outils de Yeita
 ---
 
-# 🛠 Outils
+# 🛠 Tutoriels
 
 {% content-ref url="spaces.md" %}
 [spaces.md](spaces.md)
