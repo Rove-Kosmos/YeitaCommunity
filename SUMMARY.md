@@ -8,7 +8,6 @@
 * [🤩 Découvrir Yeita](yeita/decouvrir-yeita/README.md)
   * [Qui sommes-nous ?](yeita/decouvrir-yeita/une-organisation-alternative.md)
   * [Nos Chiffres](yeita/decouvrir-yeita/nos-chiffres.md)
-  * [La Team](yeita/decouvrir-yeita/la-team.md)
   * [Nos Rituels](yeita/decouvrir-yeita/nos-rituels.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Les locaux](yeita/decouvrir-yeita/les-locaux.md)
