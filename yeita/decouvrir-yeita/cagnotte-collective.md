@@ -24,7 +24,7 @@ Il est basé sur la marge de Yeita, qui dépend donc de notre chiffres d’affai
 
 Attention, cela veut aussi dire que la cagnotte sera impacté si nous avons des coquilles de trésorerie: le non-paiement de la part d’un client, un fort taux d’intercontrat.
 
-Le montant généré disponible est mis à jour chaque mois par Peter [(CF Chiffres) ](nos-chiffres.md)
+Le montant généré disponible est mis à jour chaque mois par Peter [(CF Chiffres) ](broken-reference)
 
 au **30/11/22** nous en sommes à 22.096 euros HT
 

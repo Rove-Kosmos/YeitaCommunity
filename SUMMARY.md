@@ -7,16 +7,15 @@
 ## Yeita
 
 * [🤩 Découvrir Yeita](yeita/decouvrir-yeita/README.md)
-  * [Nos Chiffres](yeita/decouvrir-yeita/nos-chiffres.md)
   * [Rituels & Suivi "Mamie"](yeita/decouvrir-yeita/rituels-and-suivi-mamie.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
+  * [Sharing is caring](product/sharing-is-caring.md)
   * [Payfit, CRA & Note de Frais](yeita/les-premiers-pas-chez-yeita/payfit-cra-and-note-de-frais.md)
   * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/visite-medicale.md)
   * [Carte Bancaire => Cagnotte](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)
   * [Matériel de Confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md)
-  * [Sharing is caring](product/sharing-is-caring.md)
 * [🏢 Les locaux](yeita/decouvrir-yeita/les-locaux.md)
 * [💼 Business & Stratégie](yeita/business-and-strategie/README.md)
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
