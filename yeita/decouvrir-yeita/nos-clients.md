@@ -1,45 +1,9 @@
 ---
-description: Ceux qui nous font confiance
+description: Ceux qui nous font confiance.
 ---
 
 # Nos Clients
 
-Octobre 2022
 
-{% embed url="https://www.decathlon.fr/" %}
 
-**Septembre 2022**
-
-{% embed url="https://www.france.tv/" %}
-
-#### Juillet 2022
-
-{% embed url="https://www.fasst.io/" %}
-
-{% embed url="https://www.sncf-connect.com/" %}
-
-#### <mark style="color:blue;">Mars 2022</mark>
-
-{% embed url="https://www.hagergroup.com/" %}
-
-#### <mark style="color:blue;">Avril 2022</mark>
-
-{% embed url="https://cybelangel.com/" %}
-
-{% embed url="https://franceconnect.gouv.fr/" %}
-
-#### <mark style="color:blue;">Mai 2022</mark>
-
-{% embed url="https://beta.gouv.fr/" %}
-
-## Référencements&#x20;
-
-{% embed url="https://www.france.tv/" %}
-Pour des besoins Product Owner / Product Manager
-{% endembed %}
-
-## Avant-vente &#x20;
-
-{% embed url="https://solidarites-sante.gouv.fr/affaires-sociales/" %}
-Dossier fait en Mars 2022 (réponse été 2022)&#x20;
-{% endembed %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><ul><li>Consolidation de l'organisation produit sur le périmètre Cloud </li><li>Product Management sur une app de device management, une app QR code / NFC, et l'app VTT Connecté</li><li>Coaching produit, Discovery &#x26; Product Strategy d'applications sportives</li></ul></td><td></td><td></td><td><a href="https://www.decathlon.fr/">https://www.decathlon.fr/</a></td><td></td><td><a href="../../.gitbook/assets/Emblème-Décathlon.jpg">Emblème-Décathlon.jpg</a></td><td><a href="https://www.decathlon.fr/">https://www.decathlon.fr/</a></td></tr><tr><td><ul><li>Référencement Yeita</li><li>Product Management</li></ul></td><td></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Capture d’écran 2023-03-03 à 16.47.44.png">Capture d’écran 2023-03-03 à 16.47.44.png</a></td><td><a href="https://www.france.tv/?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgdbBdr6wXW3Sxpc-Wgvm2islBq8hoOp33Y0f3hTp3-EBc-83dSCBFEaAtNaEALw_wcB#at_medium=1&#x26;at_platform=2&#x26;at_offre=1&#x26;at_campaign=Campagne_Marque&#x26;at_adgroup=Marque-FTV_francetv-Exact&#x26;at_adgroupid=114299224534&#x26;at_adid=487696741649&#x26;at_term=france.tv">https://www.france.tv/?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgdbBdr6wXW3Sxpc-Wgvm2islBq8hoOp33Y0f3hTp3-EBc-83dSCBFEaAtNaEALw_wcB#at_medium=1&#x26;at_platform=2&#x26;at_offre=1&#x26;at_campaign=Campagne_Marque&#x26;at_adgroup=Marque-FTV_francetv-Exact&#x26;at_adgroupid=114299224534&#x26;at_adid=487696741649&#x26;at_term=france.tv</a></td></tr><tr><td><ul><li>Accompagnement du Product Owner Métier dans la Discovery</li><li><p>Accompagnement de l’équipe dans le phase de construction et de vision du produit</p><p><br></p></li></ul></td><td></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Logo-SNCF-Connect.png">Logo-SNCF-Connect.png</a></td><td><a href="https://www.sncf-connect.com/">https://www.sncf-connect.com/</a></td></tr><tr><td><ul><li>Product owning des applications Cloud loT dans la gestion d'énergie, du confort, de la sécurité et du contrôle d'accès</li></ul></td><td></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Hager_Group_Logo_grey (2).png">Hager_Group_Logo_grey (2).png</a></td><td><a href="https://hagergroup.com/en">https://hagergroup.com/en</a></td></tr><tr><td><ul><li>Transformation de la culture produit vers plus de Discovery</li><li>Product Design des 5 applications</li><li>Création d'une team design</li><li>Création d'un design system</li></ul></td><td></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/cybelangel.jpg">cybelangel.jpg</a></td><td></td></tr><tr><td><ul><li>Développement et méthodologie Craft</li><li><p>Accompagnement Agile d'équipes techniques</p><p><br></p></li></ul></td><td></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/Hager_Group_Logo_grey (3).png">Hager_Group_Logo_grey (3).png</a></td><td><a href="https://www.fasst.io/">https://www.fasst.io/</a></td></tr><tr><td><strong>France Connect</strong></td><td><ul><li>?</li></ul></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/franceconnect (1).png">franceconnect (1).png</a></td><td><a href="https://franceconnect.gouv.fr/">https://franceconnect.gouv.fr/</a></td></tr><tr><td><ul><li>Stratégie Produit</li><li>Coaching Produit</li></ul></td><td></td><td></td><td></td><td></td><td><a href="../../.gitbook/assets/logo_twitter_image-2019.jpg">logo_twitter_image-2019.jpg</a></td><td><a href="https://beta.gouv.fr/">https://beta.gouv.fr/</a></td></tr></tbody></table>
