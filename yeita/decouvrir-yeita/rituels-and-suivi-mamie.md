@@ -6,9 +6,9 @@ description: '#Attentifs·ves'
 
 ## Nos rituels
 
-**Le Conseil** - 1h en visio par mois en visio le mardi à 12H - tous les docs sont dans le drive, ici : [https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT](https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT)
+**La Démo (feu le conseil)** - 1h en visio par mois en visio le mardi à 12H - tous les docs sont dans le drive, ici : [https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT](https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT)
 
-**YeitaDay** - Une après-midi / soirée hors projet tous les 2 mois pour se réunir co-construire - apprendre et partager&#x20;
+**YeitaDay** - Une après-midi / soirée hors projet tous les 2 mois pour se réunir co-construire - apprendre et partager -> mise à jour de la roadmap
 
 **Yeitappens** - Tous les mois, le jeudi, dans un bar différent :smile:
 
@@ -33,10 +33,10 @@ Le système "Mamie" a été mis en place pour palier au problème du manque de s
 #### Le principe
 
 * **QUOI**\
-  ****Chacun choisit sa granny au sein de l'équipe, la personne qui va l'écouter, se rendre disponible. Une fois que tu as choisi ta mamie, tu peux la renseigner dans ce doc : [https://docs.google.com/spreadsheets/d/1nac0OBdhkUJrcoJmmgGAeaMd\_9WhIUDjS4dHf0DNMKw/edit#gid=0](https://docs.google.com/spreadsheets/d/1nac0OBdhkUJrcoJmmgGAeaMd\_9WhIUDjS4dHf0DNMKw/edit#gid=0)
+  Chacun choisit sa granny au sein de l'équipe, la personne qui va l'écouter, se rendre disponible. Une fois que tu as choisi ta mamie, tu peux la renseigner dans ce doc : [https://docs.google.com/spreadsheets/d/1nac0OBdhkUJrcoJmmgGAeaMd\_9WhIUDjS4dHf0DNMKw/edit#gid=0](https://docs.google.com/spreadsheets/d/1nac0OBdhkUJrcoJmmgGAeaMd\_9WhIUDjS4dHf0DNMKw/edit#gid=0)
 * **QUAND**\
-  ****Vous et votre mamie devez faire un suivi régulier de la fréquence de votre choix, **au minimum 30min. 1 fois par mois**, pour parler des problèmes, de ce qui va et de ce qu'on doit changer.
+  Vous et votre mamie devez faire un suivi régulier de la fréquence de votre choix, **au minimum 30min. 1 fois par mois**, pour parler des problèmes, de ce qui va et de ce qu'on doit changer.
 * **OÙ**\
-  ****Au duo de choisir ensuite où ils feront leurs suivis _(Viso ? Tel ? Dej ? Apéro? Autre ? Tout est possible)._
+  Au duo de choisir ensuite où ils feront leurs suivis _(Viso ? Tel ? Dej ? Apéro? Autre ? Tout est possible)._
 * **COMMENT** \
   La relation avec la mamie est un safe space : <mark style="color:red;">**tout ce qui est dit avec la mamie reste avec la mamie**</mark>, sauf si les deux sont d'accord pour en parler à une autre personne. Vous pouvez changer de mamie à tout moment si vous jugez que votre besoin a évolué, rien n'est figé dans le marbre
