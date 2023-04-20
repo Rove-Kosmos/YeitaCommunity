@@ -19,6 +19,7 @@
 * [🏢 Les locaux](yeita/decouvrir-yeita/les-locaux.md)
 * [💼 Business & Stratégie](yeita/business-and-strategie/README.md)
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
+  * [Personal Branding](yeita/business-and-strategie/personal-branding.md)
   * [🗣 Discours de prospection](yeita/business-and-strategie/discours-de-prospection.md)
 * [🛠 Tutoriels](yeita/outils/README.md)
   * [Gitbook 101](yeita/outils/spaces.md)
