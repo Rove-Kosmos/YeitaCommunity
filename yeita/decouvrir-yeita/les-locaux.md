@@ -9,7 +9,7 @@ description: Ici, le cadre d'utilisation de nos locaux !
 
 Code de l'immeuble : `4596`
 
-[Code de Yeita : `1506`](#user-content-fn-1)[^1]``
+[Code de Yeita : ](#user-content-fn-1)[^1]2810
 {% endhint %}
 
 13/02/23 - Nous venons de nous installer dans les locaux, nous avons essayé de chiner le maximum en seconde main (environ 80%) et voici une première proposition de règles pour le bien être de chacun !&#x20;
