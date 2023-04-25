@@ -11,3 +11,7 @@ description: Comment utiliser les outils de Yeita
 {% content-ref url="discord-101.md" %}
 [discord-101.md](discord-101.md)
 {% endcontent-ref %}
+
+{% content-ref url="../tutoriels/yeitazine-101.md" %}
+[yeitazine-101.md](../tutoriels/yeitazine-101.md)
+{% endcontent-ref %}

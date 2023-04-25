@@ -13,7 +13,7 @@ description: Qu'est-ce donc que Payfit ?
 
 ## **Comment utiliser PayFit - Guide Pratique 😍**
 
-{% file src="../../../.gitbook/assets/Bienvenue sur PayFit - Guide de lespace employé.pdf" %}
+{% file src="../../.gitbook/assets/Bienvenue sur PayFit - Guide de lespace employé.pdf" %}
 
 ## Suivi du temps de travail **(CRA)**
 
@@ -22,8 +22,8 @@ Il permet de suivre ton activité chez ton client.&#x20;
 **Quelques fondamentaux pour le remplir correctement  😎 :**&#x20;
 
 * **Saisir les jours d'activités chez ton client** VS **les jours d'activités chez Yeita**\
-  ****Quand c'est un jour travaillé chez le client, spécifie-le bien dans ton CRA. Quand c'est un Yeita Day ou toute autre raison de déstaffing Yeita, tu peux aussi le spécifier au jour ou à la demi-journée.\
-  ![](<../../../.gitbook/assets/Capture d’écran 2022-11-28 à 11.26.58.png>)
+  Quand c'est un jour travaillé chez le client, spécifie-le bien dans ton CRA. Quand c'est un Yeita Day ou toute autre raison de déstaffing Yeita, tu peux aussi le spécifier au jour ou à la demi-journée.\
+  ![](<../../.gitbook/assets/Capture d’écran 2022-11-28 à 11.26.58.png>)
 * Si tu n'es pas présent pour divers motifs ( Inter-contrat, évènements...), tu ne saisis aucune heure sur le/les jours concernés
 * Les jours de congés sont automatiquement remplis quand la demande est saisie au préalable&#x20;
 

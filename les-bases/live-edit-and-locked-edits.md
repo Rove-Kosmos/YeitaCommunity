@@ -38,7 +38,8 @@ Super ! Si c'est ta première contribution, allons-y ensemble :&#x20;
    ![](<../.gitbook/assets/Capture d’écran 2022-05-25 à 14.54.35 (1).png>)
 2. Pour qu'on s'y retrouve dans les branches, donne lui un nom qui décrit ce que tu ajoutes.\
    ![](<../.gitbook/assets/Capture d’écran 2022-05-25 à 14.29.24.png>)\
-   <mark style="color:blue;">ℹ️ C'est plus propre de faire : 1 branche = 1 sujet</mark> \ <mark style="color:blue;"></mark>_<mark style="color:blue;">(Ex: 1 branche "UI Colors", 1 branche "Nouveau livre produit"...)</mark>_
+   <mark style="color:blue;">ℹ️ C'est plus propre de faire : 1 branche = 1 sujet</mark> \
+   _<mark style="color:blue;">(Ex: 1 branche "UI Colors", 1 branche "Nouveau livre produit"...)</mark>_
 3. Tu peux maintenant éditer ce que tu veux sur les pages que tu veux en toute sécurité :smile:\
    <mark style="color:blue;">ℹ️ Tout ce que tu fais est enregistré en live, et si tu quitte et que tu reviens, tu peux retrouver ta branche en cliquant sur</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Change Requests"**</mark><mark style="color:blue;">.</mark>
 4. Une fois que c'est bon, clique sur la flèche à côté du bouton **Merge**, et sélectionne **Submit for review**. Quelqu'un se chargera alors rapidement d'approuver ta branche.

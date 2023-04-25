@@ -20,7 +20,7 @@ description: Pleins de librairies pour tous les goûts
 * **Stock** Illustrations : [Mixkit](https://mixkit.co/free-stock-art/)
 *   [Patternico](https://patternico.com/emoji/) - Générateur de fonds d'écrans avec uniquement des emojis
 
-    ****
+
 
 ## Photos
 

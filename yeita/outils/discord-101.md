@@ -2,7 +2,7 @@
 description: Comment utiliser Discord en une page.
 ---
 
-# Discord 101
+# 2⃣ Discord 101
 
 ## Interface
 
@@ -62,7 +62,8 @@ Cliquez ensuite sur le petit "+" en face de **Messages Privés** et ajouter les 
 ## Fonctionnalités clés
 
 * Pour tout le formatage de texte possible, [toutes les informations sont ici](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-).
-* ![](<../../.gitbook/assets/Capture d’écran 2022-06-10 à 10.50.24.png>) <mark style="color:blue;"></mark> \ <mark style="color:blue;"></mark>Quand vous êtes dans un channel vocal, ces options apparaissent au dessus de votre avatar. **C'est ici que vous pourrez gérer votre micro, votre son, votre vidéo et votre partage d'écran.** Le bouton en bas à droite ouvre les paramètres liés au son, le bouton en haut à droite permet de raccrocher.
+* ![](<../../.gitbook/assets/Capture d’écran 2022-06-10 à 10.50.24.png>) \
+  Quand vous êtes dans un channel vocal, ces options apparaissent au dessus de votre avatar. **C'est ici que vous pourrez gérer votre micro, votre son, votre vidéo et votre partage d'écran.** Le bouton en bas à droite ouvre les paramètres liés au son, le bouton en haut à droite permet de raccrocher.
 * Dans certains channels, **des messages importants peuvent être épinglés**. Pour les retrouver, cliquez sur l'épingle en haut à droite de votre écran
 
 ![L'épingle est encadrée en rouge](<../../.gitbook/assets/Capture d’écran 2022-06-10 à 10.39.58.png>)
@@ -83,7 +84,7 @@ Les rôles Discord permettent de définir qui fait quoi et comment. C'est un sys
 
 {% hint style="info" %}
 Pour mettre des emojis dans vos messages, le moyen le plus rapide est d'écrire **":"** suivi du nom de l'emoji en anglais. \
-_Exemple : **`:heart:`** pour afficher_ :heart:__
+_Exemple : **`:heart:`** pour afficher_ :heart:
 {% endhint %}
 
 * <img src="../../.gitbook/assets/Capture d’écran 2022-06-10 à 11.12.14.png" alt="" data-size="line"> Vous pouvez ajouter les **GIFs** les plus fins de l'Internet via votre barre de message.

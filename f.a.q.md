@@ -30,3 +30,11 @@ Dans 🧾 [Payfit](yeita/les-premiers-pas-chez-yeita/payfit-cra-and-note-de-frai
 
 Chaque salarié Yeita possède [une carte Qonto virtuelle](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md) pour être autonome dans ses achats autorisées par la [cagnotte collective](yeita/decouvrir-yeita/cagnotte-collective.md), ses [achats de confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md) et achats ponctuels pour Yeita.\
 ⚠️ Garde juste bien en tête qu'il est capital d'avoir <mark style="color:red;">une facture au nom de Yeita, 5 rue de Hanovre 75002 Paris avec Montant HT, TTC et la TVA</mark> et de la mettre dans Qonto pour éviter que Peter ne se transforme en gremlin. 😈
+
+### :black\_circle: Comment je fais si je veux ajouter un article sur le blog Yeita (Yeitazine) ?
+
+C'est très simple, tu as un tuto ultra guidé ici pour t'aider !
+
+{% content-ref url="yeita/tutoriels/yeitazine-101.md" %}
+[yeitazine-101.md](yeita/tutoriels/yeitazine-101.md)
+{% endcontent-ref %}

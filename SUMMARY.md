@@ -22,8 +22,9 @@
   * [Personal Branding](yeita/business-and-strategie/personal-branding.md)
   * [🗣 Discours de prospection](yeita/business-and-strategie/discours-de-prospection.md)
 * [🛠 Tutoriels](yeita/outils/README.md)
-  * [Gitbook 101](yeita/outils/spaces.md)
-  * [Discord 101](yeita/outils/discord-101.md)
+  * [1⃣ Gitbook 101](yeita/outils/spaces.md)
+  * [2⃣ Discord 101](yeita/outils/discord-101.md)
+  * [3⃣ Yeitazine 101](yeita/tutoriels/yeitazine-101.md)
 
 ## ressources
 

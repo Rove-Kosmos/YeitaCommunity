@@ -92,4 +92,4 @@ Rappel : 3K par an par personne dès maintenant pris sur le budget 2023 sur la c
 
 Tout membre de l’équipe hors Peter et Moi - nous avons décidé de nous exclure de cette cagnotte ainsi que de la prise de décision, pour que l’équipe soit 100% autonome à ce sujet.&#x20;
 
-Nous sommes bien **** sûr dispo pour vous accompagner/conseiller au besoin mais nous sommes surs que vous allez prendre les bonnes décisions.:heart:
+Nous sommes bien sûr dispo pour vous accompagner/conseiller au besoin mais nous sommes surs que vous allez prendre les bonnes décisions.:heart:

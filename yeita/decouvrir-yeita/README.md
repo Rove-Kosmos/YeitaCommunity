@@ -7,14 +7,14 @@ description: L'histoire sans fin qui nous fait vibrer ♥️
 ## Introduction
 
 > _"Avec Peter, nous n’avons pas trouvé dans les entreprises dans lesquelles nous avons travaillé les meilleures formules pour nous développer tout en vivant des moments de qualité. Nous voulons apprendre, partager, transmettre, tester nos idées, faire de belles rencontres et vivre des moments mémorables._ \
-> __
+>
 >
 > _Nous avons rêvé d’une entreprise qui nous apporte plus de liberté et de confiance pour laisser libre court à notre créativité, nous en avons fait notre cadre de travail._\
-> __
 >
-> _Créée en 2021, nous sommes une communauté spécialisée dans le <mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**product management**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> et le <mark style="color:blue;">**product design**</mark>**.**"_
 >
-> __
+> _Créée en 2021, nous sommes une communauté spécialisée dans le_ _<mark style="color:purple;">**product management**</mark>_ _et le <mark style="color:blue;">**product design**</mark>**.**"_
+>
+>
 >
 > _Pauline Egea & Peter Wullaert, Co-founders_
 
