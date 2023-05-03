@@ -20,6 +20,7 @@ description: C'est ton premier jour ? Tu es au bon endroit !
   * [ ] Tu as accès au Discord _(viens dire bonjour dans <mark style="background-color:yellow;">💬-tchat</mark>)_
   * [ ] Tu as accès à ton mail Yeita&#x20;
   * [ ] Tu as accès à ce Gitbook en tant que créateur
+  * [ ] Tu as rejoins la team Figma et tu peux accéder à la [<mark style="background-color:green;">Timeline</mark>](https://www.figma.com/file/fok86ZrJ0s6Zfr1AYzLm4J/Timeline-Yeita?node-id=0%3A1\&t=XfqhBRB6XCHsXbI3-1) et la [<mark style="background-color:green;">Roadmap</mark>](https://www.figma.com/file/9ivHLFjJ9Bo1xJpJLYsZb7/Yeita-Roadmap?t=ms4awePEHce6iEQk-1) Yeita
   * [ ] Tu t'es choisi une "[Mamie](../decouvrir-yeita/rituels-and-suivi-mamie.md)" pour faire ton suivi
   * [ ] Tu as organisé ton apéro de bienvenue en invitant [team@yeita.fr](mailto:team@yeita.fr) dans ton bar préféré :tada: _(soirée financée par Yeita, bien sûr)_\
 
