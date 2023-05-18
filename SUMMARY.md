@@ -20,7 +20,7 @@
 * [💼 Business & Stratégie](yeita/business-and-strategie/README.md)
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
   * [✒ Personal Branding](yeita/business-and-strategie/personal-branding.md)
-  * [🗣 Discours de prospection](yeita/business-and-strategie/discours-de-prospection.md)
+  * [🤳 Formation Business](yeita/business-and-strategie/formation-business.md)
 * [🛠 Tutoriels](yeita/outils/README.md)
   * [1⃣ Gitbook 101](yeita/outils/spaces.md)
   * [2⃣ Discord 101](yeita/outils/discord-101.md)
