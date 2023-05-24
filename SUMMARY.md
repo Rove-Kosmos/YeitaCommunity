@@ -17,6 +17,7 @@
   * [Carte Bancaire => Cagnotte](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)
   * [Matériel de Confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md)
 * [🏢 Les locaux](yeita/decouvrir-yeita/les-locaux.md)
+* [🔎 Le guide de l'interco](yeita/le-guide-de-linterco.md)
 * [💼 Business & Stratégie](yeita/business-and-strategie/README.md)
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
   * [✒ Personal Branding](yeita/business-and-strategie/personal-branding.md)
