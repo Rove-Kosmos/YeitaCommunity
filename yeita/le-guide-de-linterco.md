@@ -1,5 +1,5 @@
 ---
-description: Tu trouveras ici des clés pour vivre ta meilleure vie en intercontrat !
+description: Tu trouveras ici des clés pour cette période transitoire !
 ---
 
 # 🔎 Le guide de l'interco
@@ -12,7 +12,7 @@ L'interco, aussi appelé intermission ou intercontrat, est une période pendant 
 
 #### Pourquoi créer ce guide ?&#x20;
 
-La période d'intercontrat peut être source de stress. L'incertitude est forte, on est à la recherche d'une opportunité de mission, dans l'attente d'un retour client ou et toujours à l'affut. Pour t'accompagner et rester attentifs, voici quelques conseils qui, on l'espère, t'aideront.&#x20;
+La période d'intercontrat peut être source de stress. L'incertitude est forte, on est à la recherche d'une opportunité de mission, dans l'attente d'un retour client ou et toujours à l'affut. Pour t'accompagner et rester attentifs, voici quelques conseilspour t'aider.&#x20;
 
 ### Les tips de grandma Yeita&#x20;
 
