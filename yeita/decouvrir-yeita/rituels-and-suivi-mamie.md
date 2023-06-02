@@ -6,13 +6,19 @@ description: '#Attentifs·ves'
 
 ## Nos rituels
 
-**La Démo (feu le conseil)** - 1h en visio par mois en visio le mardi à 12H - tous les docs sont dans le drive, ici : [https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT](https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT)
+**Les News -** Sur Discord, le premier lundi du mois, P\&P font un résumé de ce qui s'est passé la mois d'avance (RH/Biz/News/Chiffres)
+
+**La Démo** - visio de 30 min le vendredi à 12H pour parler de l'avancée de la roadmap&#x20;
+
+On commence par un petit point roadmap puis chaque cercle (lead ou représentant) présente ses avancées !&#x20;
+
+Les anciens conseil sont ici : [https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT](https://drive.google.com/drive/u/1/folders/19MV0gbJdo8HgsOd19qOArDx69Sp3cYLT)
 
 **YeitaDay** - Une après-midi / soirée hors projet tous les 2 mois pour se réunir co-construire - apprendre et partager -> mise à jour de la roadmap
 
 **Yeitappens** - Tous les mois, le jeudi, dans un bar différent :smile:
 
-**SharingIsCaring** - Les jeudis de 12h15 à 13H à la demande - du contenu à se partager qu'entre nous !&#x20;
+**Le ROTI de Mamie** - le webinaire les vendredis -  une fois par mois à 13H
 
 {% content-ref url="../../product/sharing-is-caring.md" %}
 [sharing-is-caring.md](../../product/sharing-is-caring.md)
