@@ -14,3 +14,4 @@ description: Notre organisation est composée de cercles - les voici
   * Nannies (lancement / recrutement à la démo à voir avec Tim)
   * Happy BD&#x20;
 *   Build in Public (Raph)&#x20;
+* Socle (P\&P)
