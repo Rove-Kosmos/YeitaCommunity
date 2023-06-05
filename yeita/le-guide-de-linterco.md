@@ -47,6 +47,10 @@ Ta Nanny et toi avez un relation privilégiée. Ta Nanny est invitée à se mont
 
 La priorité pendant ta période d'interco est de trouver ta prochaine mission. Pendant cette période, tu peux t'investir dans les sujets Yeita qui te parles. Tu ne sais pas par où commencer ? Jette un œil à la [<mark style="background-color:green;">roadmap</mark>](https://www.figma.com/file/PKlEKa3dNhFR9WRugNqsEV/Yeita-Roadmap?type=whiteboard\&node-id=0-1\&t=d7dtWCTRXUtjh72L-0).&#x20;
 
+#### Veille et formation seront à toi&#x20;
+
+Tu as plus de liberté que lorsque tu es en mission. Tu peux en profiter pour <mark style="background-color:green;">**apprendre**</mark>. La période d'interco est une bonne opportunité pour lire, approfondir un sujet, passer une certification ... Ce temps est le tien !
+
 #### Enrichir ce guide tu pourras&#x20;
 
 Si ta propre expérience en interco te donne des idées à partager, tu peux mettre à jour ce guide, il appartient au collectif :blue\_book:.&#x20;
