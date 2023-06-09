@@ -31,8 +31,13 @@ description: C'est ton premier jour ? Tu es au bon endroit !
   * [ ] Tu as fais ta [Visite Médicale](visite-medicale.md)
   * [ ] Envoie une attestation Navigo à **peter.wullaert@yeita.fr** pour être remboursé·e 🚃\
 
-* **As-tu reçu·e les cadeaux de notre père à tous·tes** [Peter Wullaert](http://localhost:5000/u/c8haRii4T2aSVAPPdX6sGIcA8IO2 "mention")🎅  ?
-  * [ ] Transmet-lui la couleur de ton choix et ta taille pour recevoir [un sweat](https://www.stanleystella.com/fr-be/unisexe/sweatshirts/cruiser-stsu822?returnurl=%2ffr-be%2funisexe%2fsweatshirts%2f) & [un t-shirt](https://www.stanleystella.com/fr-be/unisexe/t-shirt/creator-sttu755?returnurl=%2ffr-be%2funisexe%2ft-shirt%2f) Yeita brodé ! 👕
+*   **As-tu reçu·e les cadeaux de notre père à tous·tes** [Peter Wullaert](http://localhost:5000/u/c8haRii4T2aSVAPPdX6sGIcA8IO2 "mention")🎅  ?
+
+    * [ ] Transmet-lui la couleur de ton choix et ta taille pour recevoir [un sweat](https://www.stanleystella.com/fr-be/unisexe/sweatshirts/cruiser-stsu822?returnurl=%2ffr-be%2funisexe%2fsweatshirts%2f) & [un t-shirt](https://www.stanleystella.com/fr-be/unisexe/t-shirt/creator-sttu755?returnurl=%2ffr-be%2funisexe%2ft-shirt%2f) Yeita brodé ! 👕
+
+
+* **Au bout d'un mois, tu es invité à faire un rapport d'étonnement :**
+  * [ ] Tu peux t'inspirer de ce [<mark style="background-color:green;">template</mark>](https://docs.google.com/presentation/d/1BCjOMTIv8bV08ajRhTdXYKWSmd0lxQ-5BWPaXkceDgw/edit?usp=sharing)&#x20;
 
 
 
