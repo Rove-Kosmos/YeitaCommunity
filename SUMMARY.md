@@ -12,6 +12,7 @@
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
+  * [L'équipe](yeita/les-premiers-pas-chez-yeita/lequipe.md)
   * [Sharing is caring](product/sharing-is-caring.md)
   * [Payfit, CRA & Note de Frais](yeita/les-premiers-pas-chez-yeita/payfit-cra-and-note-de-frais.md)
   * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/visite-medicale.md)
