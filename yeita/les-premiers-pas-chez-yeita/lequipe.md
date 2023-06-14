@@ -18,7 +18,7 @@ description: >-
 | Romain Magri        | 0660413722 | 03/12/1992         |
 | Timothée De Guibert | 0638232594 | 29/07/1989         |
 | Wang-Isabelle Bo    | 0624270827 | 27/10/1988         |
-|                     |            |                    |
+| Kevin Arnaud        | 0666434503 | 02/06/1989         |
 |                     |            |                    |
 |                     |            |                    |
 |                     |            |                    |
