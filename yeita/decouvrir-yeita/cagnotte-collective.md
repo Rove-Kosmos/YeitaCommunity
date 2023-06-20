@@ -24,7 +24,7 @@ Cette cagnotte existe en plus du socle de base prévue par Yeita : les YeitaDay 
 
 ### **Son montant ?**&#x20;
 
-Il est basé sur la marge de Yeita, qui dépend donc de notre chiffres d’affaires, de nos coûts et du règlement de nos clients. Il s’agit de 10% de notre marge, déjà réglé par nos clients pour que cet argent soit réel (nous sommes généralement payé à 45 jours).&#x20;
+Il est basé sur la marge de Yeita, qui dépend donc de notre chiffres d’affaires, de nos coûts et du règlement de nos clients. Il s’agit de 15% de notre marge, déjà réglé par nos clients pour que cet argent soit réel (nous sommes généralement payé à 45 jours).&#x20;
 
 Attention, cela veut aussi dire que la cagnotte sera impacté si nous avons des coquilles de trésorerie: le non-paiement de la part d’un client, un fort taux d’intercontrat.
 
