@@ -49,7 +49,9 @@ N’hésitez pas à vous lâcher avec des idées de ouf, ou pas, en tout cas de 
 
 #### **Exemple 2 : Je veux créer du contenu**
 
-👉  J'ai besoin de me déstaffer, de réserver une salle ou d'acheter du matériel --> À faire valider par la team (cf règle projet/produit interne)
+👉  J'ai besoin de me déstaffer, de réserver une salle ou d'acheter du matériel --> À faire valider par la team (cf règle projet/produit interne).&#x20;
+
+Nous avons décidé d'avoir un cout commun de destaffing à 500€/Jour.
 
 #### **Exemple 3 : Formation ou coaching collectif (intervenant externe)**&#x20;
 
