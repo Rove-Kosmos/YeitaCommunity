@@ -17,14 +17,24 @@ description: Qu'est-ce donc que Payfit ?
 
 ## Suivi du temps de travail **(CRA)**
 
-Il permet de suivre ton activité chez ton client.&#x20;
+Il permet de suivre ton activité chez ton client et au sein de Yeita.&#x20;
 
 **Quelques fondamentaux pour le remplir correctement  😎 :**&#x20;
 
-* **Saisir les jours d'activités chez ton client** VS **les jours d'activités chez Yeita**\
-  Quand c'est un jour travaillé chez le client, spécifie-le bien dans ton CRA. Quand c'est un Yeita Day ou toute autre raison de déstaffing Yeita, tu peux aussi le spécifier au jour ou à la demi-journée.\
-  ![](<../../.gitbook/assets/Capture d’écran 2022-11-28 à 11.26.58.png>)
-* Si tu n'es pas présent pour divers motifs ( Inter-contrat, évènements...), tu ne saisis aucune heure sur le/les jours concernés
+**Tout d'abord, tu peux saisir 3 types d'activités :** \
+&#x20;**Jours travaillés en mission / Activité Yeita / Activité Cagnotte Creative**
+
+* **Saisir les jours d'activités chez ton client** VS **les jours chez Yeita ou en les jours cagnotte Creative**\
+  Quand c'est un jour travaillé chez le client, spécifie le bien dans ton CRA, tu as un onglet avec le nom de ta mission. \
+  Ensuite en fonction de la nature de ton activité/destaffing : tu mets "Yeita" quand tu participes à un Yeita Day ou tu es en intercontrat ou pour tout autre évènement Yeita. Si par ex tu prends une journée pour rédiger du contenu, faire une conf', une formation ou tout autre activité qui sollicite l'utilisation de la Cagnotte Creative. Tu mets l'onglet "Destaffing Cagnotte".
+
+\
+![](<../../.gitbook/assets/Capture d’écran 2022-11-28 à 11.26.58.png>)
+
+* Pour le destaffing lié à la cagnotte Creative &#x20;
+
+![](../../.gitbook/assets/image.png)
+
 * Les jours de congés sont automatiquement remplis quand la demande est saisie au préalable&#x20;
 
 {% hint style="info" %}
