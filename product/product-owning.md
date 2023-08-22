@@ -14,6 +14,7 @@ Fichier Excel pour auto évaluation skills PO PM v0&#x20;
 
 * Sondage après une ITW user : [http://www.guillaumegronier.com/cv/blog/files/6545bc93a9d0952c2afac2581129ae7c-0.html](http://www.guillaumegronier.com/cv/blog/files/6545bc93a9d0952c2afac2581129ae7c-0.html)&#x20;
 * Automatisation check rédaction US : https://marketplace.atlassian.com/apps/1230962/chatgpt-ai-assistant-for-jira?tab=overview\&hosting=cloud  &#x20;
+* Outil pour schéma processus : [https://demo.bpmn.io/s/start](https://demo.bpmn.io/s/start) BPMN
 
 **Liens sur le product / vidéos à regarder :**&#x20;
 
