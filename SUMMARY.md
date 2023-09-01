@@ -11,6 +11,7 @@
   * [Les Cercles](yeita/decouvrir-yeita/les-cercles.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
+* [Formation](yeita/formation.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
   * [L'équipe](yeita/les-premiers-pas-chez-yeita/lequipe.md)
   * [Sharing is caring](product/sharing-is-caring.md)
