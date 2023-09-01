@@ -57,12 +57,6 @@ Nous avons décidé d'avoir un cout commun de destaffing à 500€/Jour.
 
 👉  Faire valider par la team (cf règle projet/produit interne)
 
-#### **Exemple 4 : Formation personnelle**&#x20;
-
-👉 Revoir la règle dans le gitbook&#x20;
-
-Rappel : 3K par an par personne dès maintenant pris sur le budget 2023 sur la cagnotte collective si période d'essai validée. La budget formation prend en compte le déstaffing mais on peut poser un CP ou RTT.&#x20;
-
 #### **Exemple 5 : Participation à des meetups / salons / events**&#x20;
 
 👉 Pas de règles pour le moment --> à traiter au cas par cas selon implication : coût du destaffing ? exposer l'intention : apprendre ? volonté de se former ? ou networking ?
