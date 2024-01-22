@@ -29,6 +29,8 @@
   * [1⃣ Gitbook 101](yeita/outils/spaces.md)
   * [2⃣ Discord 101](yeita/outils/discord-101.md)
   * [3⃣ Yeitazine 101](yeita/tutoriels/yeitazine-101.md)
+* [📑 Yeita Day](yeita/yeita-day/README.md)
+  * [👑 Lancement de 2024](yeita/yeita-day/lancement-de-2024.md)
 
 ## ressources
 
