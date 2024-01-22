@@ -16,7 +16,7 @@ Ce Yeita Day a été influencé par le podcast ci-dessous, notamment autour des 
 
 ## Propositions et décisions
 
-L'opportunité pour chacun de contribuer à la vie de Yeita en plus de nos missions est un axe différenciant pour le collectif. Afin d'identifier les sujets qui motivent, nous avons **listé les sujets "socle"** à porter, et nous avons **cartographié ceux qui seront portés par le staff et ceux qui seront sous-traités**. Les critères retenus pour ces décisions étaient la motivation, et la plus-value individuelle et collective.&#x20;
+L'opportunité pour chacun de contribuer à la vie de Yeita en plus de nos missions est un axe différenciant pour le collectif. Afin d'identifier les sujets qui motivent, nous avons **listé les sujets "socle"** à porter, et nous avons **cartographié ceux qui seront portés par le staff et ceux qui seront sous-traités**. Les critères retenus pour ces décisions sont la motivation, et la plus-value individuelle et collective.&#x20;
 
 En simplifiant, nous avions deux options :
 
@@ -25,7 +25,7 @@ En simplifiant, nous avions deux options :
 
 Nous avons opté pour une troisième voie, avec **la poursuite de l'expérimentation et la responsabilisation du collectif** sur la majorité des responsabilités identifiées, et **la sous-traitance pour quelques tâches plus administratives**. Le détail est synthétisé dans les tableaux ci-dessous.&#x20;
 
-&#x20;Cette décision s'appuie sur la mise en place de formations communes en 2024. Nous souhaitons avoir une gestion différenciée de l’inter-contrat et avons l'envie de déceler les zones de génie de chacun et les zones de génie de Yeita.&#x20;
+Cette décision s'appuie sur la mise en place de formations communes en 2024. Nous souhaitons avoir une gestion différenciée de l’inter-contrat et avons l'envie de déceler les zones de génie de chacun et les zones de génie de Yeita.&#x20;
 
 | RH                        | Thématiques              | Qui est intéressé ?          |
 | ------------------------- | ------------------------ | ---------------------------- |
@@ -71,6 +71,8 @@ Pour se projeter sur les différentes responsabilités assumées par le collecti
 * Pour les formations des sessions vont êtes organisées sur le premier semestre 2024 pour le collectif, par exemple sur les zones de génie, la PCM (process communication model) ou la négociation. Nous souhaitons aussi renforcer les formations dans lesquelles Yeita forme Yeita.&#x20;
 * Pour le financement des formations collectives, P\&P travaillent sur une proposition de budget en incluant dans la réflexion ou non la prise en compte de l'enveloppe individuelle de formation
 * Pour la data, P\&P travaille à une estimation du coût d'un inter-contrat orienté socle pour la prochaine démo, avec une vision chiffre trimestre par trimestre.
+
+:warning: Nous avons abordé le sujet de la perception du déstaffing côté client : est-ce accepté ? Est-ce toléré ? Il reste un mélange d'inconnu et de croyances sur ces questions. :warning:
 
 Côté calendrier et visibilité, nous avons planifié les prochains Yeita Day et le weekend Yeita.&#x20;
 
