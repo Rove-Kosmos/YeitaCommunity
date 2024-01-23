@@ -42,7 +42,7 @@ Cette décision s'appuie sur la mise en place de formations communes en 2024. No
 |                           | Chiffres                 | Sous-traitance               |
 | Développement de carrière | Zones de génie           | Isabelle / Tim               |
 |                           | Nanny                    | Sophie / Tim                 |
-| Innovation Sociale RH     |                          | Juliette R / Tim             |
+| Innovation Sociale RH     |                          | Juliette R / Tim / Nadim     |
 
 | Admin              | Thématiques            | Qui est intéressé ?       |
 | ------------------ | ---------------------- | ------------------------- |
