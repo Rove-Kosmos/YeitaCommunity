@@ -2,11 +2,11 @@
 description: Tout savoir pour rédiger un article sur notre blog
 ---
 
-# 3⃣ Yeitazine 101
+# 3️⃣ Yeitazine 101
 
 ## L'accès à Studio.design
 
-1. Pour commencer, contacte [Romain Magri](http://localhost:5000/u/XzDIwN53YqMfH0vKnx5LAa4Nndm2 "mention") ([romain.magri@yeita.fr](http://localhost:5000/u/XzDIwN53YqMfH0vKnx5LAa4Nndm2)) pour être ajouté·e au back-office du blog. Tu vas recevoir un mail de Studio.design.\
+1. Pour commencer, contacte [Romain Magri](https://app.gitbook.com/u/XzDIwN53YqMfH0vKnx5LAa4Nndm2 "mention") ([romain.magri@yeita.fr](https://app.gitbook.com/u/XzDIwN53YqMfH0vKnx5LAa4Nndm2)) pour être ajouté·e au back-office du blog. Tu vas recevoir un mail de Studio.design.\
 
 2.  Une fois que c'est fait, connecte-toi sur [https://app.studio.design/](https://app.studio.design/) avec ton login Yeita. \
     Tu arrives sur cette interface : \

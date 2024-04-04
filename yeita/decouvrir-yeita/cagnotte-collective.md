@@ -75,7 +75,7 @@ Nous avons décidé d'avoir un cout commun de destaffing à 500€/Jour.
 
 #### **Exemple  8 : Voyages / Activité fun**
 
-👉 Pas dans la cagnotte collective ! Pris en charge par [Yeita ](rituels-and-suivi-mamie.md)
+👉 Pas dans la cagnotte collective ! Pris en charge par [Yeita ](nos-rituels.md)
 
 
 
