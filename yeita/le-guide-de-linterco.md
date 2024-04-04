@@ -41,7 +41,7 @@ Une rétrospective est organisée toutes les deux semaines lors de la période d
 
 #### Ta Nanny sera là&#x20;
 
-Ta Nanny et toi avez un relation privilégiée. Ta Nanny est invitée à se montrer particulièrement attentive pendant cette période si tu as besoin d'un feedback ou de quoi que ce soit. Si tu n'as pas de Nanny, c'est l'occasion d'en [<mark style="background-color:green;">choisir</mark>](decouvrir-yeita/nos-rituels.md) une.&#x20;
+Ta Nanny et toi avez un relation privilégiée. Ta Nanny est invitée à se montrer particulièrement attentive pendant cette période si tu as besoin d'un feedback ou de quoi que ce soit. Si tu n'as pas de Nanny, c'est l'occasion d'en [<mark style="background-color:green;">choisir</mark>](decouvrir-yeita/rituels-and-suivi-mamie.md) une.&#x20;
 
 #### Bonjour la roadmap Yeita
 
