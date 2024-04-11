@@ -16,10 +16,14 @@ description: >-
 | Pauline Egea        | 0665215862 | 21/10/1986         |
 | Peter Wullaert      | 0623426711 | 28/11/-9 avant J.C |
 | Romain Magri        | 0660413722 | 03/12/1992         |
-| Timothée De Guibert | 0638232594 | 29/07/1989         |
+| Timothée de Guibert | 0638232594 | 29/07/1989         |
 | Wang-Isabelle Bo    | 0624270827 | 27/10/1988         |
 | Kevin Arnaud        | 0666434503 | 02/06/1989         |
-|                     |            |                    |
-|                     |            |                    |
-|                     |            |                    |
-|                     |            |                    |
+| Juliette Simon      | 0627898027 | 09/07/1988         |
+| Matteo Eponville    |            | 22/07/1999         |
+| Tiphanie Vinet      |            |                    |
+| Vincent Rossignol   |            |                    |
+| Christelle Tohme    |            |                    |
+| Gillian Gienislaw   |            |                    |
+| Raphael Bellalou    |            |                    |
+| Sophie Sauvaget     |            |                    |
