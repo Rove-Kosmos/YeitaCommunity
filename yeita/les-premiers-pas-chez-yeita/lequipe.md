@@ -6,4 +6,25 @@ description: >-
 
 # L'équipe
 
-<table><thead><tr><th>👋Nom / Prénom</th><th>📞 Contact</th><th>🎂 Anniversaire</th><th data-type="number">Date d'arrivée</th></tr></thead><tbody><tr><td>Wang-Isabelle Bo</td><td>0624270827</td><td>27/10/1988</td><td>21</td></tr><tr><td>Romain Magri</td><td>0660413722</td><td>03/12/1992</td><td>null</td></tr><tr><td>Amélie Meppiel</td><td>0670116825</td><td>22/07/1988</td><td>null</td></tr><tr><td>Juliette Simon</td><td>0627898027</td><td>09/07/1988</td><td>null</td></tr><tr><td>Raphael Bellalou</td><td>0762598116</td><td>10/11/1988</td><td>null</td></tr><tr><td>Juliette Ritoux</td><td>0645984015</td><td>04/09/1996</td><td>null</td></tr><tr><td>Leo Ea Pinel</td><td>0676329591</td><td>20/07/1994 </td><td>null</td></tr><tr><td>Nadim Bel Lallahom</td><td>0642969306</td><td>21/07/1993</td><td>null</td></tr><tr><td>Christelle Tohme </td><td>0777333265</td><td>19/04/1989</td><td>null</td></tr><tr><td>Timothée de Guibert</td><td>0638232594</td><td>29/07/1989</td><td>null</td></tr><tr><td>Kevin Arnaud</td><td>0666434503</td><td>02/06/1989</td><td>null</td></tr><tr><td>Doreen Hamoui</td><td>0783840920</td><td>08/07/1997</td><td>null</td></tr><tr><td>Gillian Gienislaw</td><td>0782413887</td><td>08/10/1999</td><td>null</td></tr><tr><td>Sophie Sauvaget </td><td>0621602755</td><td>24/11/1987</td><td>null</td></tr><tr><td>Tiphanie Vinet</td><td>0614201853</td><td>24/11/1983</td><td>null</td></tr><tr><td>Vincent Rossignol</td><td>0637808201</td><td>09/09/1996</td><td>null</td></tr><tr><td>Matteo Eponville</td><td>0649290641</td><td>22/07/1999</td><td>null</td></tr><tr><td>Eva Jimenez</td><td>0613119979</td><td>28/05/1987</td><td>null</td></tr><tr><td>Pauline Egea</td><td>0665215862</td><td>21/10/1986</td><td>null</td></tr><tr><td>Peter Wullaert</td><td>0623426711</td><td>28/11/-9 avant J.C</td><td>null</td></tr><tr><td></td><td></td><td></td><td>null</td></tr></tbody></table>
+| 👋Nom / Prénom      | 📞 Contact | 🎂 Anniversaire    | 🛬 Date d'arrivée |
+| ------------------- | ---------- | ------------------ | ----------------- |
+| Wang-Isabelle Bo    | 0624270827 | 27/10/1988         | 21/03/2022        |
+| Romain Magri        | 0660413722 | 03/12/1992         | 19/04/2022        |
+| Amélie Meppiel      | 0670116825 | 22/07/1988         | 04/07/2022        |
+| Juliette Simon      | 0627898027 | 09/07/1988         | 26/09/2022        |
+| Raphael Bellalou    | 0762598116 | 10/11/1988         | 03/10/2022        |
+| Juliette Ritoux     | 0645984015 | 04/09/1996         | 26/10/2022        |
+| Leo Ea Pinel        | 0676329591 | 20/07/1994         | 07/11/2022        |
+| Nadim Bel Lallahom  | 0642969306 | 21/07/1993         | 23/01/2023        |
+| Christelle Tohme    | 0777333265 | 19/04/1989         | 23/01/2023        |
+| Timothée de Guibert | 0638232594 | 29/07/1989         | 24/04/2023        |
+| Kevin Arnaud        | 0666434503 | 02/06/1989         | 03/05/2023        |
+| Doreen Hamoui       | 0783840920 | 08/07/1997         | 12/06/2023        |
+| Gillian Gienislaw   | 0782413887 | 08/10/1999         | 18/09/2023        |
+| Sophie Sauvaget     | 0621602755 | 24/11/1987         | 13/11/2023        |
+| Tiphanie Vinet      | 0614201853 | 24/11/1983         | 08/01/2024        |
+| Vincent Rossignol   | 0637808201 | 09/09/1996         | 15/01/2024        |
+| Matteo Eponville    | 0649290641 | 22/07/1999         | 22/01/2024        |
+| Eva Jimenez         | 0613119979 | 28/05/1987         | 29/04/2024        |
+| Pauline Egea        | 0665215862 | 21/10/1986         | Jour 1            |
+| Peter Wullaert      | 0623426711 | 28/11/-9 avant J.C | Jour 1            |
