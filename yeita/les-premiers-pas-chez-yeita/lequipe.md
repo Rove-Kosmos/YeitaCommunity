@@ -6,24 +6,4 @@ description: >-
 
 # L'équipe
 
-| 👋Nom / Prénom      | 📞 Contact | 🎂 Anniversaire    |
-| ------------------- | ---------- | ------------------ |
-| Doreen Hamoui       | 0783840920 | 08/07/1997         |
-| Elea Nizam          | 0773118693 | 29/09/2004         |
-| Juliette Ritoux     | 0645984015 | 04/09/1996         |
-| Leo Ea Pinel        | 0676329591 | 20/07/1994         |
-| Nadim Bel Lallahom  | 0642969306 | 21/07/1993         |
-| Pauline Egea        | 0665215862 | 21/10/1986         |
-| Peter Wullaert      | 0623426711 | 28/11/-9 avant J.C |
-| Romain Magri        | 0660413722 | 03/12/1992         |
-| Timothée de Guibert | 0638232594 | 29/07/1989         |
-| Wang-Isabelle Bo    | 0624270827 | 27/10/1988         |
-| Kevin Arnaud        | 0666434503 | 02/06/1989         |
-| Juliette Simon      | 0627898027 | 09/07/1988         |
-| Matteo Eponville    |            | 22/07/1999         |
-| Tiphanie Vinet      |            |                    |
-| Vincent Rossignol   |            |                    |
-| Christelle Tohme    |            |                    |
-| Gillian Gienislaw   |            |                    |
-| Raphael Bellalou    |            |                    |
-| Sophie Sauvaget     |            |                    |
+<table><thead><tr><th>👋Nom / Prénom</th><th>📞 Contact</th><th>🎂 Anniversaire</th><th data-type="number">Date d'arrivée</th></tr></thead><tbody><tr><td>Wang-Isabelle Bo</td><td>0624270827</td><td>27/10/1988</td><td>21</td></tr><tr><td>Romain Magri</td><td>0660413722</td><td>03/12/1992</td><td>null</td></tr><tr><td>Amélie Meppiel</td><td>0670116825</td><td>22/07/1988</td><td>null</td></tr><tr><td>Juliette Simon</td><td>0627898027</td><td>09/07/1988</td><td>null</td></tr><tr><td>Raphael Bellalou</td><td>0762598116</td><td>10/11/1988</td><td>null</td></tr><tr><td>Juliette Ritoux</td><td>0645984015</td><td>04/09/1996</td><td>null</td></tr><tr><td>Leo Ea Pinel</td><td>0676329591</td><td>20/07/1994 </td><td>null</td></tr><tr><td>Nadim Bel Lallahom</td><td>0642969306</td><td>21/07/1993</td><td>null</td></tr><tr><td>Christelle Tohme </td><td>0777333265</td><td>19/04/1989</td><td>null</td></tr><tr><td>Timothée de Guibert</td><td>0638232594</td><td>29/07/1989</td><td>null</td></tr><tr><td>Kevin Arnaud</td><td>0666434503</td><td>02/06/1989</td><td>null</td></tr><tr><td>Doreen Hamoui</td><td>0783840920</td><td>08/07/1997</td><td>null</td></tr><tr><td>Gillian Gienislaw</td><td>0782413887</td><td>08/10/1999</td><td>null</td></tr><tr><td>Sophie Sauvaget </td><td>0621602755</td><td>24/11/1987</td><td>null</td></tr><tr><td>Tiphanie Vinet</td><td>0614201853</td><td>24/11/1983</td><td>null</td></tr><tr><td>Vincent Rossignol</td><td>0637808201</td><td>09/09/1996</td><td>null</td></tr><tr><td>Matteo Eponville</td><td>0649290641</td><td>22/07/1999</td><td>null</td></tr><tr><td>Eva Jimenez</td><td>0613119979</td><td>28/05/1987</td><td>null</td></tr><tr><td>Pauline Egea</td><td>0665215862</td><td>21/10/1986</td><td>null</td></tr><tr><td>Peter Wullaert</td><td>0623426711</td><td>28/11/-9 avant J.C</td><td>null</td></tr><tr><td></td><td></td><td></td><td>null</td></tr></tbody></table>
