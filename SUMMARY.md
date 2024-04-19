@@ -32,6 +32,7 @@
   * [2️⃣ Discord 101](yeita/outils/discord-101.md)
   * [3️⃣ Yeitazine 101](yeita/tutoriels/yeitazine-101.md)
   * [4️⃣ Optimisation Linkedin](yeita/tutoriels/optimisation-linkedin.md)
+  * [5️⃣ Figma / Figjam 101](yeita/tutoriels/figma-figjam-101.md)
 * [📑 Yeita Day](yeita/yeita-day/README.md)
   * [👑 Lancement de 2024](yeita/yeita-day/lancement-de-2024.md)
 
