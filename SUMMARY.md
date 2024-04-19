@@ -8,7 +8,8 @@
 
 * [🤩 Découvrir Yeita](yeita/decouvrir-yeita/README.md)
   * [Nos Rituels](yeita/decouvrir-yeita/rituels-and-suivi-mamie.md)
-  * [👵 Le Suivi "Nanny"](yeita/decouvrir-yeita/le-suivi-nanny.md)
+  * [🗣️ Le Suivi "Nanny"](yeita/decouvrir-yeita/le-suivi-nanny.md)
+  * [🧓 Être Nanny](yeita/decouvrir-yeita/etre-nanny.md)
   * [Les Cercles](yeita/decouvrir-yeita/les-cercles.md)
   * [Nos Clients](yeita/decouvrir-yeita/nos-clients.md)
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective.md)
