@@ -32,7 +32,7 @@ description: C'est ton premier jour ? Tu es au bon endroit !
 
 * **Pour la vie d'équipe :**&#x20;
   * [ ] Tu as les invitations pour (Sinon, contactes [Pauline Egea](https://app.gitbook.com/u/H7pRKVhsznhURJ3Np7Qv8Nr1bQz2 "mention")) :&#x20;
-    * [ ] La démo, notre rencontre mensuelle pour discuter des différents cercles (page dédiée de présentation à créer)
+    * [ ] La démo, notre rencontre mensuelle pour discuter des différents [cercles](../decouvrir-yeita/les-cercles.md) (page dédiée de présentation à créer)
     * [ ] Le week-end Yeita, weekend annuel avec tout le collectif, autour de mi-octobre.&#x20;
   * [ ] Tu as organisé ton apéro de bienvenue en invitant [team@yeita.fr](mailto:team@yeita.fr) dans ton bar préféré :tada: _(soirée financée par Yeita, bien sûr)_\
 
