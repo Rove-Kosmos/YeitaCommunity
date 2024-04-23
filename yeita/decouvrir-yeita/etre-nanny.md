@@ -22,7 +22,21 @@ La responsabilité de la Nanny est d'accompagner un membre du collectif vers son
 
 ### Nanny Yeita, comment cadrer la relation ?&#x20;
 
-Définir le cadre de la relation Nanny, c'est donner son plein potentiel à ce système chez Yeita. Pour t'aider en tant que Nanny à t'y retrouver, voici une liste de questions à se poser et de points à clarifier.&#x20;
+Définir le cadre de la relation Nanny, son intention et ses limites, c'est donner toute sa puissance au système chez Yeita. Pour t'aider à faire tes premiers pas de Nanny, voici une liste de questions à se poser et de points à clarifier.
+
+**Confiance et confidentialité**
+
+> La relation avec la Nanny est un safe space : <mark style="background-color:green;">tout ce qui est dit avec la Nanny reste avec la Nanny, sauf si les deux sont d'accord pour en parler à une autre personne</mark>. &#x20;
+
+* [ ] Quelle est la <mark style="background-color:green;">fréquence</mark> que nous souhaitons dans le suivi Nanny ?
+
+Au quotidien, le suivi peut être régulier ou à la demande, dans le cadre défini dans chaque relation Nanny. La recommandation est d'avoir <mark style="background-color:green;">au moins un échange par mois</mark> et de varier les formats (tel, café, déj, promenade, visio) selon vos préférences.&#x20;
+
+* [ ] Quels sujets est-il possible d’aborder dans la relation ?&#x20;
+
+La proposition est de laisser le champ libre à tout ce qui a trait à la vie du membre du collectif au sein de Yeita. Être Nanny, c'est proposer son écoute et son recul pour relire la vie au sein de Yeita et côté client. &#x20;
+
+* [ ] En tant que Nanny, quand dois-je réorienter le membre du collectif vers un autre membre de l'équipe ? Vers P\&P ?&#x20;
 
 
 

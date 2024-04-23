@@ -32,8 +32,6 @@ Ton intégration passe par ta rencontre avec le cadre et l'équipe. Après quelq
 
 Pour t’aider à préparer ton onboarding chez un client, ta Nanny est là. Comment souhaites-tu démarrer ta mission ? Comment te sens-tu au bout d’une semaine ? Au bout d’un mois ? La Nanny est là pour veiller avec toi au bon déroulement de ces étapes clés.&#x20;
 
-Au quotidien, le suivi peut être régulier ou à la demande, dans le cadre défini dans chaque relation Nanny. La recommandation est d'avoir au moins un échange par mois et de varier les formats (tel, café, déj) selon vos préférences.&#x20;
-
 Quand ta mission se termine, pour prendre du recul, ta Nanny est là également. Une mission peut se terminer à ton initiative. Elle peut être choisie par ton client. Il peut y avoir un peu des deux. Dans différentes situations, comment souhaites-tu conclure ta mission avec ton client ? Quelle image souhaites-tu laisser ? Prends le temps d’en discuter avec ta Nanny!&#x20;
 
 Si tu es en inter-contrat, tu peux t'appuyer sur ta Nanny pour identifier les cercles & sujets Yeita sur lesquels tu souhaites t'investir !&#x20;
