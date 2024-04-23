@@ -18,7 +18,6 @@
   * [L'équipe](yeita/les-premiers-pas-chez-yeita/lequipe.md)
   * [Payfit, CRA & Note de Frais](yeita/les-premiers-pas-chez-yeita/payfit-cra-and-note-de-frais.md)
   * [Visite Médicale](yeita/les-premiers-pas-chez-yeita/visite-medicale.md)
-  * [Les Cercles](yeita/les-premiers-pas-chez-yeita/les-cercles.md)
   * [Carte Bancaire => Cagnotte](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)
   * [Sharing is caring](product/sharing-is-caring.md)
   * [Matériel de Confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md)
