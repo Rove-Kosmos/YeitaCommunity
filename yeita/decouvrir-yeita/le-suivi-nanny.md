@@ -18,16 +18,6 @@ Le système "Nanny" est notre réponse pour permettre à chaque membre du collec
 
 Chez Yeita, chaque personne est invitée à choisir une personne au sein de Yeita qui deviendra sa Nanny.
 
-### La relation Nanny&#x20;
-
-La relation avec la Nanny est un safe space : <mark style="color:green;">**tout ce qui est dit avec la Nanny reste avec la Nanny, sauf si les deux sont d'accord pour en parler à une autre personne**</mark>. &#x20;
-
-La clé, c’est définir ensemble le cadre d’une relation Nanny. Rester attentifs aux membres du collectif passe par l'encadrement des Nanny chez Yeita. Dans quel cadre définir le système Nanny ? En définissant l'intention, en identifiant les limites, pour donner toute sa puissance au système.&#x20;
-
-Quels sujets est-il possible d’aborder dans la relation ? Quelle est la fréquence que nous souhaitons dans le suivi Nanny ? En tant que Nanny, quand dois-je réorienter le membre du collectif vers un autre membre de l'équipe ? Vers P\&P ?&#x20;
-
-Pour t’y retrouver dans cette liste de questions, Yeita t’aide avec un template de charte Nanny (Template en cours de rédaction).
-
 ### Nanny au sein de Yeita : Pour quoi faire ? 
 
 Tu en fais l'expérience toi aussi, il y a dans nos aventures au sein de Yeita et chez les clients des étapes clés. Pour accompagner le quotidien, voici une proposition non exhaustive de moments clés pour des points de suivi Nanny. &#x20;
