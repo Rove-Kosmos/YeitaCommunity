@@ -27,6 +27,7 @@
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
   * [✒️ Personal Branding](yeita/business-and-strategie/personal-branding.md)
   * [🤳 Formation Business](yeita/business-and-strategie/formation-business.md)
+* [🫂 Nanny](yeita/nanny.md)
 * [🛠️ Tutoriels](yeita/outils/README.md)
   * [1️⃣ Gitbook 101](yeita/outils/spaces.md)
   * [2️⃣ Discord 101](yeita/outils/discord-101.md)
