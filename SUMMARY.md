@@ -14,6 +14,7 @@
 * [🫂 People Ops](yeita/people-ops/README.md)
   * [🗣️ Le Suivi Nanny](yeita/people-ops/le-suivi-nanny.md)
   * [🧓 Être Nanny](yeita/people-ops/etre-nanny.md)
+  * [⏯️ Rétro & Evaluation Annuelle](yeita/people-ops/retro-and-evaluation-annuelle.md)
 * [Formation](yeita/formation.md)
 * [👋 Les premiers pas chez Yeita](yeita/les-premiers-pas-chez-yeita/README.md)
   * [L'équipe](yeita/les-premiers-pas-chez-yeita/lequipe.md)
