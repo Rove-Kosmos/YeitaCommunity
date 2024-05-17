@@ -2,7 +2,7 @@
 description: Ici, le cadre d'utilisation de nos locaux !
 ---
 
-# 🏢 Les locaux
+# Les locaux
 
 {% hint style="info" %}
 **Yeita, 5 rue de Hanovre, 75002 Paris**
