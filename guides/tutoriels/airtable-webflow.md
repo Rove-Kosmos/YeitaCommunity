@@ -1,13 +1,11 @@
 ---
 description: >-
   Tu as besoin de créer une formation ou publier un article, lead magnet,
-  podcast sur le siteweb ? Maintenant plus besoin d’utiliser Webflow, tu peux
-  directement aller dans Airtable.
+  podcast sur le siteweb ? Maintenant plus besoin d’utiliser Webflow pour le
+  rédiger, tu peux directement aller dans Airtable.
 ---
 
-# 6️⃣ Airtable
-
-Si tu rencontres des soucis Matteo et Romain sont là pour t’aider 🫶
+# 6️⃣ Airtable / Webflow
 
 D’abord une rapide intro sur Airtable : Airtable est une sorte d’Excel intelligent, tu peux faire des tableaux, les inter-connectés et surtout les relier à des outils comme Webflow. Si Brevo (notre CRM) est notre base de donnée clients, Airtable est notre base de donnée de contenus.
 
@@ -21,10 +19,14 @@ Notre Airtable est découpé en 3 grandes catégories :
 
 * Les articles (Podcast, Article, Vidéo, Outil)
 * Les membres de Yeita (oui tu y es)
-* Les formations en physique\
+* Les formations en physique
 
+Démo de David (notre développeur Webflow) de notre base de donnée :\
+[https://www.loom.com/share/f3b07e903e454eae87b5bb0f214f2bce](https://www.loom.com/share/f3b07e903e454eae87b5bb0f214f2bce)
 
 ### Génial ton truc mais moi je veux publier !&#x20;
+
+Maintenant il faut voir nos pages Medias et Formations comme des textes à trous qu'il faut remplir (0 besoin de compétence en design tout est auto-géré). Le Airtable vient les remplir.
 
 Pour ajouter un article ⬇️ (le principe est le même pour les autres catégories) [https://www.loom.com/share/61402bdfa9cc4aa79a6e0904ba45cb5f](https://www.loom.com/share/61402bdfa9cc4aa79a6e0904ba45cb5f)
 
@@ -42,6 +44,8 @@ Si tu as la flemme de regarder une vidéo :
 
     </div>
 * Publish la librairie que vous avez mis à jours (voir vidéo)
-* Congrats c’est en ligne !
+* Congrats c’est pousser côté Webflow
+
+Derrière, il faut se rendre dans Webflow (si vous avez des accès) sinon vous mettez un message dans "Growth Hacking" pour qu'on publie votre formation, article, profil.&#x20;
 
 Ce tutoriel ne répond pas à ton problème ? DM Matteo sur Discord&#x20;

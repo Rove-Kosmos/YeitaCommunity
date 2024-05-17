@@ -56,7 +56,7 @@
   * [3️⃣ Yeitazine 101](guides/tutoriels/yeitazine-101.md)
   * [4️⃣ Optimisation Linkedin](guides/tutoriels/optimisation-linkedin.md)
   * [5️⃣ Figma / Figjam 101](guides/tutoriels/figma-figjam-101.md)
-  * [6️⃣ Airtable](guides/tutoriels/airtable.md)
+  * [6️⃣ Airtable / Webflow](guides/tutoriels/airtable-webflow.md)
 
 ## ressources
 
