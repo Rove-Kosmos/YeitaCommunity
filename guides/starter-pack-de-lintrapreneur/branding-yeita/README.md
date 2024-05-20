@@ -38,8 +38,8 @@ Pour développer une marque avec le branding Yeita, ta brand doit se conformer a
 [seo.md](seo.md)
 {% endcontent-ref %}
 
-{% content-ref url="ton-and-voix.md" %}
-[ton-and-voix.md](ton-and-voix.md)
+{% content-ref url="cible-ton-and-voix.md" %}
+[cible-ton-and-voix.md](cible-ton-and-voix.md)
 {% endcontent-ref %}
 
 {% content-ref url="reseaux-sociaux-and-contenus.md" %}
