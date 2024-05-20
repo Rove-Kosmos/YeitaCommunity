@@ -32,4 +32,4 @@ La Communauté Yeita a choisi Gitbook car c'est un outil simple et collaboratif,
 * Aider les juniors à monter en compétences produit
 * Créer une culture open-source & créative au sein de Yeita
 
-Tu peux en apprendre plus sur [comment marche Gitbook ici](guides/tutoriels/spaces.md).
+Tu peux en apprendre plus sur [comment marche Gitbook ici](yeita/outils/spaces.md).

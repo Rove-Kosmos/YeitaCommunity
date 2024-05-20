@@ -7,8 +7,16 @@ description: T'es perdu·e ? T'inquiètes on va t'aider.
 ### :black\_circle: **Je débarque à Yeita ! Je dois aller où ?**
 
 Tu as une checklist d'arrivée qui t'attends dans 👋 [Les premiers pas à Yeita](yeita/les-premiers-pas-chez-yeita/) !\
-On t'as aussi fait des tutoriels pour t'aider à utiliser 🎓 [Gitbook](guides/tutoriels/spaces.md) et pour 🎓 [Discord](guides/tutoriels/discord-101.md). \
+On t'as aussi fait des tutoriels pour t'aider à utiliser 🎓 [Gitbook](yeita/outils/spaces.md) et pour 🎓 [Discord](yeita/outils/discord-101.md). \
 Promis c'est simple et rapide :)
+
+### :black\_circle: Où je peux trouver logo, bannières et éléments graphiques de Yeita ?
+
+On a tout rassemblé _(couleurs, typos, logo, déclinaisons, bannières, photos, SEO et ton)_ dans la page suivante :&#x20;
+
+{% content-ref url="guides/starter-pack-de-lintrapreneur/branding-yeita/" %}
+[branding-yeita](guides/starter-pack-de-lintrapreneur/branding-yeita/)
+{% endcontent-ref %}
 
 ### :black\_circle: Comment on remplit son CRA ?
 
@@ -35,14 +43,14 @@ Chaque salarié Yeita possède [une carte Qonto virtuelle](yeita/les-premiers-pa
 
 Nous avons créé un Starter Pack Projet spécialement pour t'aider à démarrer !
 
-{% content-ref url="guides/starter-pack-projet/" %}
-[starter-pack-projet](guides/starter-pack-projet/)
+{% content-ref url="guides/starter-pack-de-lintrapreneur/" %}
+[starter-pack-de-lintrapreneur](guides/starter-pack-de-lintrapreneur/)
 {% endcontent-ref %}
 
 ### :black\_circle: Comment je fais si je veux ajouter un article sur le blog Yeita (Yeitazine) ?
 
 C'est très simple, tu as un tuto ultra guidé ici pour t'aider !
 
-{% content-ref url="guides/tutoriels/yeitazine-101.md" %}
-[yeitazine-101.md](guides/tutoriels/yeitazine-101.md)
+{% content-ref url="yeita/tutoriels/yeitazine-101.md" %}
+[yeitazine-101.md](yeita/tutoriels/yeitazine-101.md)
 {% endcontent-ref %}
