@@ -11,7 +11,7 @@ description: Tu as ton style, maintenant ton logo !
 <summary>Tu as un style défini, pas de compétences graphic design, et ton produit/média a un nom en Yeita.brand</summary>
 
 Tu as de la chance ! :four\_leaf\_clover:\
-Nous avons fait un [template Figma pour toi](https://www.figma.com/design/tf6ryPYkVcOpKe4PvQMBtC/Yeita.logo-Generator?node-id=0%3A1\&t=6hzX865w40a7WJTq-1), afin que tu génères de toi-même ton logo.
+Nous avons fait un [template Figma pour toi](https://www.figma.com/board/iljfC21N8IFDYCuenpB4kz/Yeita.logo-Generator?node-id=0%3A1\&t=46GvGIjqJ8Lj7moB-1), afin que tu génères de toi-même ton logo.
 
 _<mark style="color:blue;">Pour la convention de nommage de la brand et des URL liés, reporte-toi au</mark>_ [seo.md](../branding-yeita/seo.md "mention")
 

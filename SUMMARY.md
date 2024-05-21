@@ -42,7 +42,7 @@
     * [💚 Logo & Déclinaisons](guides/starter-pack-de-lintrapreneur/branding-yeita/logo-and-declinaisons.md)
     * [🖼️ Photos & Images](guides/starter-pack-de-lintrapreneur/branding-yeita/photos-and-images.md)
     * [🌐 SEO](guides/starter-pack-de-lintrapreneur/branding-yeita/seo.md)
-    * [🗣️ 🚧 Cible, Ton & Voix](guides/starter-pack-de-lintrapreneur/branding-yeita/cible-ton-and-voix.md)
+    * [🗣️ Cibles, Ton & Voix](guides/starter-pack-de-lintrapreneur/branding-yeita/cibles-ton-and-voix.md)
     * [📣 Réseaux Sociaux & Contenus](guides/starter-pack-de-lintrapreneur/branding-yeita/reseaux-sociaux-and-contenus.md)
   * [Branding Connexe / Nouveau Branding](guides/starter-pack-de-lintrapreneur/branding-connexe-nouveau-branding/README.md)
     * [1️⃣ Créer son style](guides/starter-pack-de-lintrapreneur/branding-connexe-nouveau-branding/creer-son-style.md)
