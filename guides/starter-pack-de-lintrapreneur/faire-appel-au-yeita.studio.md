@@ -6,9 +6,11 @@ description: Who you gonna call ? 👻
 
 Si tu n'es pas à l'aise avec l'exercice du branding, ou que tu n'as pas le temps de t'en occuper, tu peux faire appel au Yeita.studio pour t'aider.&#x20;
 
-Le Studio c'est :&#x20;
+Le Studio c'est ici :&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Romain Magri</strong></td><td>Senior Product Design &#x26; Brand Designer</td><td><a href="https://www.linkedin.com/in/magriromain/">https://www.linkedin.com/in/magriromain/</a></td><td><a href="../../.gitbook/assets/1706832865398.jpeg">1706832865398.jpeg</a></td></tr><tr><td><strong>Matteo Eponville</strong></td><td>Product Designer &#x26; Brand Marketer</td><td><a href="https://www.linkedin.com/in/matteoeponville/">https://www.linkedin.com/in/matteoeponville/</a></td><td><a href="../../.gitbook/assets/1711646586227.jpeg">1711646586227.jpeg</a></td></tr></tbody></table>
+{% content-ref url="../../yeita/yeita.studio/" %}
+[yeita.studio](../../yeita/yeita.studio/)
+{% endcontent-ref %}
 
 Les avantages et inconvénients d'utiliser le studio :&#x20;
 

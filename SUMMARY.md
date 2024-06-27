@@ -28,6 +28,9 @@
   * [🎯 Impact Mapping](yeita/business-and-strategie/impact-mapping.md)
   * [✒️ Personal Branding](yeita/business-and-strategie/personal-branding.md)
   * [🤳 Formation Business](yeita/business-and-strategie/formation-business.md)
+* [👾 Yeita.studio](yeita/yeita.studio/README.md)
+  * [Vision & Milestones](yeita/yeita.studio/vision-and-milestones.md)
+  * [Fin de projet](yeita/yeita.studio/fin-de-projet.md)
 * [📑 Yeita Days](yeita/yeita-day/README.md)
   * [👑 Lancement de 2024](yeita/yeita-day/lancement-de-2024.md)
 
