@@ -14,6 +14,7 @@
   * [Cagnotte Collective](yeita/decouvrir-yeita/cagnotte-collective/README.md)
     * [🎨 BD product - préface](yeita/decouvrir-yeita/cagnotte-collective/bd-product-preface/README.md)
       * [💰 Budget](yeita/decouvrir-yeita/cagnotte-collective/bd-product-preface/budget.md)
+      * [📗 Amazon KDP pour impression](yeita/decouvrir-yeita/cagnotte-collective/bd-product-preface/amazon-kdp-pour-impression.md)
       * [🔄 CR26072024\_Synchro avec Maurine](yeita/decouvrir-yeita/cagnotte-collective/bd-product-preface/cr26072024\_synchro-avec-maurine.md)
 * [🫂 People Ops](yeita/people-ops/README.md)
   * [🗣️ Le Suivi Nanny](yeita/people-ops/le-suivi-nanny.md)
