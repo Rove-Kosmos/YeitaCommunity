@@ -36,7 +36,7 @@ Dans 🧾 [Payfit](yeita/les-premiers-pas-chez-yeita/payfit-cra-and-note-de-frai
 
 ### :black\_circle: Comment on se sert de la carte Qonto ? Et la cagnotte ?
 
-Chaque salarié Yeita possède [une carte Qonto virtuelle](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md) pour être autonome dans ses achats autorisées par la [cagnotte collective](yeita/decouvrir-yeita/cagnotte-collective.md), ses [achats de confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md) et achats ponctuels pour Yeita.\
+Chaque salarié Yeita possède [une carte Qonto virtuelle](yeita/les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md) pour être autonome dans ses achats autorisées par la [cagnotte collective](yeita/decouvrir-yeita/cagnotte-collective/), ses [achats de confort](yeita/les-premiers-pas-chez-yeita/materiel-de-confort.md) et achats ponctuels pour Yeita.\
 ⚠️ Garde juste bien en tête qu'il est capital d'avoir <mark style="color:red;">une facture au nom de Yeita, 5 rue de Hanovre 75002 Paris avec Montant HT, TTC et la TVA</mark> et de la mettre dans Qonto pour éviter que Peter ne se transforme en gremlins. 😈
 
 ### :black\_circle: J'ai une idée de projet / de contenu. Je fais comment pour le logo, le site,  les formats, etc ?

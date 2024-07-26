@@ -20,7 +20,7 @@ Un terrain de jeu/ d’apprentissages dans lequel on peut s’inspirer, tester n
 
 Cette cagnotte existe en plus du socle de base prévue par Yeita : les YeitaDay (6/an), les Yeitappens (Apéros tous les mois), le Conseil (1H en visio tous les mois) &#x20;
 
-<figure><img src="../../.gitbook/assets/Cagnottes Yeita - Répartition.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cagnottes Yeita - Répartition.png" alt=""><figcaption></figcaption></figure>
 
 ### **Son montant ?**&#x20;
 
@@ -28,7 +28,7 @@ Il est basé sur la marge de Yeita, qui dépend donc de notre chiffres d’affai
 
 Attention, cela veut aussi dire que la cagnotte sera impacté si nous avons des coquilles de trésorerie: le non-paiement de la part d’un client, un fort taux d’intercontrat.
 
-Le montant généré disponible est mis à jour chaque mois par Peter [(CF Chiffres) ](./)
+Le montant généré disponible est mis à jour chaque mois par Peter [(CF Chiffres) ](../)
 
 ### &#x20;**Comment le dépenser ?** 🤑 🤑 🤑 
 
@@ -75,13 +75,13 @@ Nous avons décidé d'avoir un cout commun de destaffing à 500€/Jour.
 
 #### **Exemple  8 : Voyages / Activité fun**
 
-👉 Pas dans la cagnotte collective ! Pris en charge par [Yeita ](rituels-and-suivi-mamie.md)
+👉 Pas dans la cagnotte collective ! Pris en charge par [Yeita ](../rituels-and-suivi-mamie.md)
 
 
 
 #### 🤑 🤑  **Pour dépenser les sous, comment je fais ?**&#x20;
 
-👉 Toutes les infos sont [ici ](../les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)\
+👉 Toutes les infos sont [ici ](../../les-premiers-pas-chez-yeita/carte-bancaire-greater-than-cagnotte.md)\
 
 
 ### **Pour qui ?**&#x20;
