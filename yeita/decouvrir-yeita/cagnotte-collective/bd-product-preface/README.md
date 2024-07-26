@@ -4,12 +4,13 @@ description: Page pour parler de la bande dessinée réalisée avec la cagnotte 
 
 # 🎨 BD product - préface
 
-Yeita est un collectif de consultants en product management et product design qui mise tout sur la transparence, la redistribution des bénéfices et la créativité !
+**Lien vers la roadmap :**&#x20;
+
+[https://www.figma.com/board/55kGa4dHl9KJjfEJxjdqY3/BD-Product?node-id=0-1\&t=FRyMNH0zEeKGbNux-0](https://www.figma.com/board/55kGa4dHl9KJjfEJxjdqY3/BD-Product?node-id=0-1\&t=FRyMNH0zEeKGbNux-0)&#x20;
 
 
 
-**Concrètement, ça donne quoi ?**\
-
+**Un produit avec la cagnotte collective, concrètement, ça donne quoi ?**
 
 Il y a quelques mois, Léo, un de nos brillants consultants en Product Management ✨ vient nous voir avec son sourire énigmatique : ça vous dirait de créer une BD sur le Produit ? \
 
