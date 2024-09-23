@@ -7,7 +7,9 @@
 Pour éviter les sur-facturations accidentelles, le reste de l'équipe peut voir les membres mais ne peux pas éditer leurs droits.
 
 {% hint style="warning" %}
-En cas de problème avec tes droits, rapproche-toi de [Peter Wullaert](https://app.gitbook.com/u/c8haRii4T2aSVAPPdX6sGIcA8IO2 "mention")[Romain Magri](https://app.gitbook.com/u/XzDIwN53YqMfH0vKnx5LAa4Nndm2 "mention") ou [Matteo Eponville](https://app.gitbook.com/u/ctS9Zql406UCZ9cfat78nty6w352 "mention")
+En cas de problème avec tes droits, rapproche-toi de [Peter Wullaert](https://app.gitbook.com/u/c8haRii4T2aSVAPPdX6sGIcA8IO2 "mention").
+
+_Si Romain et Matteo sont en mission lors de ton arrivée, ils ne seront sans doute pas disponible pour t'aider._
 {% endhint %}
 
 ## Licences
